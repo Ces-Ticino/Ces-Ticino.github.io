@@ -1,0 +1,11 @@
+.info.legend.leaflet-control{
+  /*border: 1px solid red;*/
+  width: 200px;
+}
+
+
+.info.legend.leaflet-control>div{
+  /*border: 1px solid red;*/
+  display: flex;
+  column-gap: 10px;
+}
