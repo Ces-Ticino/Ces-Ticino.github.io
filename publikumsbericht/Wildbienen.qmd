@@ -1,0 +1,71 @@
+---
+title: Wildbienen
+author:
+  - name: Lorenz Achtnich
+    email:  achtnichlorenz@gmail.com
+    phone:  079 298 49 44
+    affiliations:
+      - name: naturalisten.ch, General-Guisan-Strasse 37, 8400 Winterthur
+# 29.11.2024
+---
+
+
+## Einleitung Wildbienen
+
+In der Schweiz sind 632 verschiedene Wildbienenarten nachgewiesen. Oder besser gesagt waren, den laut der aktuellen Roten Liste (Müller & Praz 2024) sind 59 Arten in der Schweiz bereits ausgestorben. Wildbienen sind anspruchsvolle Zeitgenossen. Sie brauchen eine blütenreiche Landschaft als Nektar- und Pollenquelle und spezielle Kleinstrukturen, um ihre Nester anzulegen. Rund um Ces finden die Bienen noch beide, für sie so wichtigen Ressourcen. So konnten auf den Wiesen und an den Waldrändern 81, mitunter seltene und gefährdete Wildbienenarten gefunden werden.
+
+## Eisenhut-Hummel (*Bombus gerstaeckeri*)
+
+![Lorenz Achtnich](/images/LA_Bombus_gerstaeckeri_auf Aconitum_13.7.24_Ces.JPG)
+
+Wie der Name erahnen lässt, ist die Eisenhut-Hummel bei der Nahrungssuche auf Arten der Gattung *Aconitum* (Eisenhut) spezialisiert. Pollen für ihren Nachwuchs sammelt die Art einzig am Eisenhut. Rund um Ces wächst der Gelbe Eisenhut (*Aconitum lycoctonum*), an welchem sich die Art zwischen Juni und August beobachten lässt. Um an den Nektar in den Eisenhutblüten zu gelangen, hat sich die Art angepasst. Sie ist, von allen Europäischen Hummeln, jene mit dem längsten Rüssel und auch die längliche Gesichtsform hilft der Eisenhut-Hummel Nektar effizient zu sammeln.
+
+## Fuchsrote Lockensandbiene (*Andrena fulva*)
+
+![Lorenz Achtnich](/images/LA_Andrena_fulva_auf Ribesrubum_10.5.24_Ces.jpg)
+
+Anhand der leuchtend orangen, pelzigen Behaarung kann man die Wildbiene gut von anderen Arten unterscheiden. Den Pollen für ihre Nachkommen sammelt die Fuchsrote Lockensandbiene an vielen verschiedenen Pflanzen, doch wenn Blüten von Johannisbeeren und anderen *Ribes*-Arten vorhanden sind, werden diese bevorzugt. In Ces findet die Art ihre Pollen an den vielen Beerensträuchern im Gemüse- und Fruchtgarten und sorgt mit der Bestäubung der Blüten nebenbei für reiche Ernten bei den Johannis-, Josta-, und Cassisbeeren.
+
+## Gezähnte Glanzbiene (*Dufourea dentiventris*)
+
+![Lorenz Achtnich](/images/LA_Dufourea_dentiventris_Schlafend in Campanula scheuchzerii_13.7.24_Ces.JPG)
+
+
+An den Glockenblumen (*Campanula*) und Teufelskrallen (*Phyteuma*) rund um Ces kann man bei genauem Hinschauen die unscheinbare, nur sieben Millimeter kleine Gezähnte Glanzbiene beobachten. Pollen sammelt die Art ausschliesslich an Glockenblumengewächsen (Campanulaceae). Da die Männchen der Gezähnten Glanzbiene keine Nester bauen, müssen sie die Nacht oder Regenschauer unter freiem Himmel überdauern. Besonders komfortabel sind die Blüten der Glockenblumen, wo sie gut geschützt auf die nächsten Sonnenstrahlen warten.
+
+## Birken-Blattschneiderbiene (*Megachile analis*)
+
+![Lorenz Achtnich](/images/LA_Megachile_analis_auf Phyteuma betonicifolium_13.7.24_Ces.JPG)
+
+
+Die Blattschneiderbienen heissen so, weil sie Stücke für den Bau von Brutzellen aus Blättend ausschneiden. Die Birken-Blattschneiderbiene sammelt diese Blattstücke bevorzugt an Birken (*Betula*). Das ist aber nicht die einzige Präferenz die diese Biene hat, denn auch für die Verproviantierung der Brutzellen mit Pollen besucht sie bevorzugt Arten der Familie der Glockenblumengewächse (Campanulaceae). Es muss also Nistmaterial, Nahrungsressourcen und dann auch noch der geeignete Nistplatz in kurzer Distanz vorhanden sein, damit diese Biene passende Lebensbedingungen vorfindet. Rund um Ces scheint das der Fall zu sein. Denn zwischen Juni und August kann man die Art, mit dem auffällig weissen Haarfleck am Ende des Hinterleibs, an Glockenblumen und Teufelskrallen auf den Wiesen und Weiden beobachten.
+
+
+## Fundmeldungen
+
+```{r}
+#| echo: false
+
+layer <- "Wildbienenerhebung"
+
+```
+
+```{r}
+#| child: make-map.qmd
+#| echo: false
+#| column: page-inset
+#| warning: false
+#| fig-height: 8
+```
+
+
+
+## Artenliste
+
+```{r}
+#| child: make_artenliste.qmd
+#| echo: false
+#| warning: false
+#| fig-height: 1
+```
+

@@ -1,0 +1,22 @@
+project:
+  type: book
+  execute-dir: project
+
+
+execute: 
+  freeze: true
+  echo: false
+lang: de
+
+book:
+  title: "Jahr der Artenvielfalt Ces 2024"
+  date: "12/18/2024"
+
+
+
+bibliography: references.bib
+
+
+
+
+

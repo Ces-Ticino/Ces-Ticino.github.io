@@ -1,0 +1,53 @@
+---
+title: Waldentwicklung
+author:
+  - name: Daniel Hepenstrick
+    role:  Autor Bericht
+    email: daniel.hepenstrick@gmx.net
+    phone: 079 751 86 81 
+    affiliations:
+      - name: Botanikon, Schreinerstrasse 52, 8004 Zürich
+---
+
+
+<!-- Dani's Text kommt hier -->
+
+```{r}
+#| output: false
+library(tmap)
+library(sf)
+tmap_mode("view")
+
+gpkg <- "Waldentwicklung/02_cleaned/ces.gpkg"
+
+lyr <- st_layers(gpkg)$name
+
+names(lyr) <- lyr
+
+wald_ces <- lapply(lyr, \(x){st_read(gpkg, x)})
+
+
+fill_alpha <- 0.7
+wald_map <- tm_shape(wald_ces$Wald_2021, name = "2021") + tm_polygons(fill = "#2b7426", fill_alpha = fill_alpha) +
+  tm_shape(wald_ces$Wald_1999, name = "1999") + tm_polygons(fill = "#33a02c", fill_alpha = fill_alpha) +
+  tm_shape(wald_ces$Wald_1961, name = "1961") + tm_polygons(fill = "#b2df8a", fill_alpha = fill_alpha) +
+  tm_basemap(c("SwissFederalGeoportal.SWISSIMAGE", "OpenStreetMap"))
+
+```
+
+
+::: {#fig-waldentwicklung}
+
+
+```{r}
+#| column: page
+#| fig-height: 8
+
+
+wald_map
+```
+
+
+Interaktive Karte zur Waldentwicklung in Ces über die Jahre 1961, 1999 und 2021. Mit einem Klick auf das Layer-Symbol (oben links) können die einzelnen Jahre ein- und ausgeschaltet werden.
+
+:::

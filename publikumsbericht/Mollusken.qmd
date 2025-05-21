@@ -1,0 +1,71 @@
+---
+title: Mollusken
+author:
+  - name: Katja Lassauer
+    email: katjalassauer@sunrise.ch
+    phone: 041 360 09 32, 076 563 81 61
+    affiliations:
+      - name: Zürichstrasse 79, 6004 Luzern
+# 24.10.2024
+---
+
+
+## Einleitung Mollusken
+
+Die Umgebung von Ces ist aufgrund ihrer geologischen Beschaffenheit mit Gneis und Glimmerschiefer eine für Schnecken unwirtliche Gegend. Vor allem Gehäuseschnecken sind auf kalkhaltiges Gestein angewiesen. Es verwundert daher nicht, dass Ces eine verhältnismässig hohe Anzahl an Nacktschneckenarten beheimatet, da diese weniger kalkabhängig sind. Sie machen rund einen Drittel der nachgewiesenen Arten aus.
+
+## Sarner Schnegel (*Limax sarnensis*)
+
+![](/images/Limax_sarnensis_Beispiel1.PNG)
+
+![Katja Lassauer](/images/Limax sarnensis_Beispiel2.PNG)
+
+
+Nebst der allbekannten Spanischen Wegschnecke gibt es in Ces mindestens sieben weitere Nacktschneckenarten zu entdecken. Mit etwas Glück lässt sich in einer feuchten Sommernacht das aufwändige Paarungsverhalten des Sarner Schnegels beobachten.
+
+## Pilzschnegel (*Malacolimax tenellus*)
+
+![Katja Lassauer](/images/Malacolimax_tenellus_Beispiel3.JPG)
+
+
+Wer gerne Pilze sammelt hat die Chance, dem Pilzschnegel zu begegnen. Es handelt sich hier um eine kleine, gelborange Nacktschnecke mit schwarzen Fühlern, die vor allem im Herbst auch tagsüber gut zu beobachten ist.
+
+## Baumschnegel (*Lehmannia marginata*)
+
+![Katja Lassauer](/images/Lehmannia_marginata_Beispiel4.JPG)
+
+
+Der Baumschnegel ernährt sich hauptsächlich von Flechten und Algen. Mit seiner mit kleinen, scharfen Zähnchen bestückten Zunge raspelt er die Nahrung von Felsen und Baumrinden.
+
+## Felsenschnecke (*Chilostoma zonatum*)
+
+![Katja Lassauer](/images/Chilostoma_zonatum_Beispiel5.JPG)
+
+
+Die Felsenschnecke ist mit gut 2.5 cm Durchmesser die grösste in Ces lebende Häuschenschnecke. Trotz ihrer beachtlichen Grösse ist sie schwierig zu finden. Sie hält sich tagsüber in Felsspalten auf und kommt in der Regel nur nachts zum Fressen aus ihrem Versteck hervor.
+
+## Fundmeldungen
+
+```{r}
+#| echo: false
+
+layer <- "Mollusken"
+
+```
+
+```{r}
+#| child: make-map.qmd
+#| echo: false
+#| column: page-inset
+#| warning: false
+#| fig-height: 8
+```
+
+## Artenliste
+
+```{r}
+#| child: make_artenliste.qmd
+#| echo: false
+#| warning: false
+#| fig-height: 1
+```

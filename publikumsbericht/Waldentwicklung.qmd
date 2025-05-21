@@ -1,0 +1,165 @@
+---
+title: Lebensräume und Waldentwicklung
+author:
+  - name: Daniel Hepenstrick
+    role:  Autor Bericht
+    email: hepenstrick@botanikon.ch
+    phone: 079 751 86 81 
+    affiliations:
+      - name: Botanikon Daniel Hepenstrick, Schreinerstrasse 52, 8004 Zürich
+---
+
+## Einleitung
+
+
+2024 wurden parallel mit der Aufnahme der Gefässpflanzen auch die Offenlandlebensräume in Ces kartiert. Zusätzlich wurde die Ausdehnung des Waldes nachgezeichnet mit historischen Luftbildern aus den Jahren 1961, 1999 und 2021.
+
+## Lebensräume
+
+Die Landwirtschaft hat die Landschaft in Ces über Generationen offengehalten. Ohne diesen menschlichen Einfluss wüchse in Ces nur eintöniger Fichtenwald. Wertvolle Lebensräume, die von Menschen geschaffen wurden oder gepflegt werden müssen, sind beispielsweise die blumenreichen Magerwiesen und -weiden, Trockensteinmauern, die vielen Tieren Unterschlupf bieten, sowie die Moore, in denen viele gefährdete Arten leben.
+
+![Vegetationskarte des Gebiets mit den Lebensräumen des Offenlands. Die Karte gibt eine Übersicht zu den Lebensräumen in Ces, welche in Realität nicht so klar gegeneinander abgegrenzt sind, wie es auf der Karte aussieht.](/images/Vegetationskarte.jpg){#fig-vegetationskarte}
+
+```{r}
+#| output: false
+
+library(sf)
+library(tmap)
+library(purrr)
+library(readr)
+library(glue)
+library(dplyr)
+# layers <- c("Wald_1961", "Wald_1999", "Wald_2021")
+# names(layers) <- layers
+# gpkg <- "Waldentwicklung/02_cleaned/ces.gpkg"
+
+# wald_l <- imap(layers, \(x,y)read_sf(gpkg, x))
+
+
+lebensraum <- "Waldentwicklung/Lebensraumkartierung/Lebensraumkartierung.gpkg"
+
+
+lebensraum_f <- st_read(lebensraum, "Flaechen")
+lebensraum_l <- st_read(lebensraum, "Linien")
+
+lebensraum_f <- lebensraum_f[!is.na(lebensraum_f$Broschüre),]
+
+lebensraum_p <- st_read(lebensraum, "Punkte")
+
+
+df2vec <- \(df){
+  cols <- pull(df,2 ) 
+  names(cols) <- pull(df,1)
+  cols
+}
+
+dfs <- c("Polygone", "Linien","Punkte")
+
+names(dfs) <- dfs
+
+df_paths <- glue("Waldentwicklung/Farben_Karte_{dfs}_Spalte-Broschüre.csv")
+
+names(df_paths) <- dfs
+
+dfs <- imap(df_paths, \(x,y)read_delim(x, ";", col_names = c("name","value")))
+
+colors <- imap(dfs, \(x,y) df2vec(x))
+
+
+
+tmap_mode("view")
+lebensraeume_map <- tm_shape(lebensraum_f, name = "Flächen") +
+  tm_polygons(
+    fill = "Broschüre", 
+    fill.scale = tm_scale_categorical(values = colors$Polygone),
+    fill.legend = tm_legend(""),
+    popup.vars = FALSE
+    ) +
+  tm_shape(lebensraum_l, name = "Linien") + 
+  tm_lines(
+    col = "Broschüre", 
+    lty = "dotted",
+    col.scale = tm_scale_categorical(values = colors$Linien),
+    col.legend = tm_legend(""),
+    lwd = 2,
+    popup.vars = FALSE
+    ) +
+  tm_shape(lebensraum_p, name = "Punkte") +
+  tm_dots(
+    fill = "Broschüre", 
+    fill.scale = tm_scale_categorical(values = colors$Punkte),
+    fill.legend = tm_legend(""),
+    popup.vars = FALSE
+    ) +
+  tm_basemap(c("SwissFederalGeoportal.SWISSIMAGE", "OpenStreetMap"))
+  
+
+```
+
+
+::: {#fig-lebensraeume}
+
+
+```{r}
+#| column: page-inset
+#| fig-height: 8
+
+
+lebensraeume_map
+```
+
+
+Interaktive Karte mit den kartierten Offenlandlebensräumen in Ces. Mit einem Klick auf die einzelnen Flächen, Punkte oder Linien sind weitere Informationen ersichtlich. Mit einem Klick auf das Layer-Symbol (oben links) können die Layers ein- und ausgeschaltet werden.
+
+:::
+
+
+## Waldentwicklung
+
+Zwischen 1961 und 1999 nahm die nicht bewaldete Fläche in Ces um 55 % ab und schrumpfte dann bis 2021 nur noch geringfügig. Durch Aufwertungsprojekte konnte die auf der Karte dargestellte Verwaldung teilweise gestoppt werden: Besonders in den Mooren von Verengo, in Presu, Sciit und Lempenc wurde der auf Wald zugunsten artenreicherer Lebensräume stark zurückgedrängt.
+
+
+```{r}
+#| output: false
+library(tmap)
+library(sf)
+tmap_mode("view")
+
+gpkg <- "Waldentwicklung/02_cleaned/ces.gpkg"
+
+lyr <- st_layers(gpkg)$name
+
+names(lyr) <- lyr
+
+wald_ces <- lapply(lyr, \(x){st_read(gpkg, x)})
+
+
+fill_alpha <- 0.7
+wald_map <-
+
+  tm_shape(wald_ces$Ces, name = "Ces") + tm_borders(col = "red") +
+  tm_shape(wald_ces$Wald_2021, name = "2021") + tm_polygons(fill = "#2b7426", fill_alpha = fill_alpha) +
+  tm_shape(wald_ces$Wald_1999, name = "1999") + tm_polygons(fill = "#33a02c", fill_alpha = fill_alpha) +
+  tm_shape(wald_ces$Wald_1961, name = "1961") + tm_polygons(fill = "#b2df8a", fill_alpha = fill_alpha) +
+  tm_add_legend("fill" = c("#b2df8a", "#33a02c", "#2b7426"), labels = c("1961", "1999","2021"), type = "polygons") +
+  tm_basemap(c("SwissFederalGeoportal.SWISSIMAGE", "OpenStreetMap"))
+
+
+```
+
+
+::: {#fig-waldentwicklung}
+
+
+```{r}
+#| column: page-inset
+#| fig-height: 8
+
+
+wald_map
+```
+
+
+Interaktive Karte zur Waldentwicklung in Ces über die Jahre 1961, 1999 und 2021. Mit einem Klick auf das Layer-Symbol (oben links) können die einzelnen Jahre ein- und ausgeschaltet werden.
+
+:::

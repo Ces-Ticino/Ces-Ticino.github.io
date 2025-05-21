@@ -1,0 +1,32 @@
+Infos für Darstellung der Daten (11.12.2024, DH):
+
+Jede Tabelle enthält je die Daten für eine Karte.
+
+Alle Tabellen starten mit diesen Spalten:
+
+			Bemerkung
+Artname_lateinisch	Text
+x-Koord			Zahl 
+y-Koord			Zahl
+Praezision_Koord	Text
+Funddatum		Text
+Gefaehrdungsstatus	Text
+
+Alle weiteren Spalten (zum Teil sind es >20) sollten (falls easy möglich) der Vollständigkeit halber auch ins shape file.
+
+Relevant für die Darstelung sind nur:
+Artname_lateinisch
+x-Koord	
+y-Koord
+Gefaehrdungsstatus
+
+Gefährdete Arten sollten mit eindeutigem Symbol markiert werden und in der Legende aufgelistet werden, alle anderen Arten sind einfach nicht unterscheidbare Punkte.
+Als efährdet gelten folgende Einträge in der Spalte Gefaehrdungsstatus:
+NT
+VU
+CR
+EN
+CR(PE)
+RE
+EX
+

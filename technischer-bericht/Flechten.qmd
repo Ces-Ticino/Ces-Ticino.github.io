@@ -1,0 +1,48 @@
+---
+title: Flechten
+author: 
+  - name: Markus Gabathuler
+    email: mgabathuler@protonmail.com
+    affiliations: 
+      - name: Regensdorferstrasse 10, 8155 Niederhasli
+# date: 2024-11-15
+---
+
+Autor:In          | Kontakt
+------------------|------------------------------------------
+Markus Gabathuler | Regensdorferstrasse 10, 8155 Niederhasli
+
+
+: {tbl-colwidths="[50,50]"}
+
+
+
+
+
+
+
+
+## Methodik
+
+Das Projektgebiet wurde mit dem Ziel einer möglichst kompletten Artenliste untersucht. Der Fokus lag daher auf allen Flechten-Ökotypen (epiphytisch, lignicol, terricol und saxicol). Mit einem «Intelligent Random Walk» konnten die verschiedenen Lebensräume untersucht werden, wobei die verfügbare Zeit für die Kartierungsarbeiten ein limitierender Faktor war. Die erlangte Artenliste gibt daher einen guten Einblick in die vorhandene Flechtenflora, sie ist allerdings nicht als vollständig zu betrachten und vor allem seltene Arten sind unterrepräsentiert.
+
+Alle registrierten Vorkommen von Flechten wurden mit den Koordinaten, dem Substrat und dem Lebensraum erfasst. Funde, welche im Feld nicht zweifelsfrei ansprechbar waren, wurden in kleinen Stücken gesammelt und anschliessend im Labor mit Hilfe von Stereolupe, Mikroskop und Dünnschichtchromatografie eindeutig bestimmt. Die Fundmeldungen wurden mit FlorApp erfasst und anschliessend an SwissLichens, das Nationale Daten- und Informationszentrum der Schweizer Flechten übermittelt.
+
+Die Kartierungsarbeiten wurden am 13./14. Juli und die Bestimmungsarbeiten bis Ende November 2024 von Markus Gabathuler durchgeführt.
+
+## Ergebnisse
+
+Insgesamt wurden im Projektgebiet 111 Arten registriert. Davon sind neun auf der Vorwarnliste (NT), weitere 70 sind als nicht gefährdet eingestuft und 31 Arten wurden bisher nicht evaluiert. Gefährdete Arten wurden während den Kartierungsarbeiten keine beobachtet, ihr Vorkommen ist allerdings nicht auszuschliessen. Besonders in den feuchteren Bereichen der Fichtenwaldbestände besteht die Möglichkeit, dass Waldzielarten wie z.B. *Menegazzia terebrata* (Hoffm.) A. Massal. anzutreffen sind.
+
+Die vielen unterschiedlichen Substrate im Untersuchungsgebiet sind ein wichtiger Faktor für die hohe Dichte von Flechtenarten. Bei ungefähr 60 Arten handelt es sich um epiphytische (baumbewohnende) Flechten, wovon die meisten (n=22) auf Larix decidua beobachtet wurden. Vor allem die Steinhäuser in und um Ces, wie auch einzelne freiliegende Steinblöcke bieten mindestens 23 saxicolen Flechtenarten geeigneten Lebensraum. Es handelt sich dabei vor allem um Arten, welche auf Silikatgestein zu erwarten sind. Dazu gehören z.B. *Rhizocarpon geographicum* (L.) DC. s. lat., diverse Arten der Gattung *Umbilicaria*, wie auch *Brodoa intestiniformis* (Vill.) Goward. Am wenigsten vertreten, mit elf Arten, sind die terricolen Flechten. Dies liegt hauptsächlich an der Bodenvegetation, welche auf dieser Höhenstufe noch deutlich von Blütenpflanzen dominiert wird. In offenen Vegetationslücken konnten diverse Arten der Gattung *Cladonia* und unter anderen auch *Peltigera didactyla* (With.) J. R. Laundon registriert werden*. Xylographa parallela* (Ach. : Fr.) Fr. war die einzige ausschliesslich auf Totholz wachsende erfasste Flechtenart.
+
+## Vorschläge Fördermassnahmen
+
+Besondere Fördermassnahmen für Flechten sind keine nötig. Das Gebiet enthält bereits viele unterschiedliche Lebensräumen mit diversen Charakteristiken. Der vor kurzer Zeit aufgelichtete Waldbestand wird für diverse lichtliebende Flechten Lebensraum bieten. Die Besiedelung mit solchen Flechtenarten wird allerdings einige Jahre in Anspruch nehmen. Auch die freistehenden Bäume, vor allem im Bereich des «gestauten Bächleins» (706\'265/143\'916), sind wertvolle Lebensräume.
+
+
+## Anhang
+
+Ces_FunmeldungenArtenliste.xlsx
+
+

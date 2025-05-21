@@ -1,0 +1,112 @@
+---
+title: Gefässpflanzen
+author:
+  - name: Daniel Hepenstrick
+    role:  Autor Bericht
+    email: hepenstrick@botanikon.ch
+    phone: 079 751 86 81 
+    affiliations:
+      - name: Botanikon Daniel Hepenstrick, Schreinerstrasse 52, 8004 Zürich
+  - name: Simon Gysi (Mitarbeit im Feld)
+    role: Mitarbeit im Feld
+  - name: Philipp und Trudi Bachmann (Floradaten 2020)
+    role: Floradaten 2020
+---
+
+
+Autor:In          | Kontakt
+------------------|------------------------------------------
+Daniel Hepenstrick   | Botanikon, Schreinerstrasse 52, 8004 Zürich
+Simon Gysi (Mitarbeit im Feld)  |
+Philipp und Trudi Bachmann (Floradaten 2020) |
+
+: {tbl-colwidths="[50,50]"}
+
+
+
+## Methodik
+
+Die vier Kartierwochenenden wurden mit folgenden Haupttätigkeiten verbracht: 9.-12. Mai 2024 Begehung des gesamten Gebiets (2.5 Tage); 13.-16. Juni 2024 Vegetationsaufnahmen (2 Tage; viel Regen); 11.-14. Juli 2024 Vegetationsaufnahmen gemeinsam mit Simon Gysi (2.5 Tage); 15.-18. August 2024 Lebensraumkartierung (2.5 Tage). Alle Flora-Daten wurden InfoFlora übermittelt. Die gesamten Daten sind im Anhang.
+
+### Flora
+
+Für die Gesamtartenliste wurden die Daten von Bachmann & Bachmann (2020) und InfoFlora (Datenabfrage 2024) mit eigenen an allen Feldtagen erhobenen Fundmeldungen ergänzt. Besonderes Augenmerk wurde auf seltene und gefährdete Arten gelegt, Klein- und Unterarten wurden nur punktuell bestimmt. Die Fundmeldungen wurden auf den Projektperimeter gefiltert, taxonomisch bereinigt und mit R nach Gefährdung ausgewertet. Jede Fundmeldung enthält Datum, Melder, Koordinaten und Präzision der Koordinaten. Die Präzision der Koordinaten gilt es unbedingt zu beachten bei allfälligem Wiederaufsuchen von Funden im Ramen eines Monitorings.
+
+### Vegetation (Lebensraumkartierung)
+
+Gutachterliche Ansprache der Vegetationseinheiten in Offenland (Wald wurde nicht kartiert) nach Delarze et. al (2015) mit Ergänzungen. Übergänge zwischen Vegetationseinheiten wurden gutachterlich einer der Einheiten zugeordnet. Zusätzlich vermerkt wurde, wenn Flächen deutlich brach liegen und wenn sie von Pfeifengras (Verbrachungszeiger) dominiert sind. Flächige Kartierung der Vegetationseinheiten auf ausgedruckte A3-1:1000-Luftbildern mit eingeblendeten Höhenlinien. Georeferenzierung und Digitalisierung in QGIS. Referenz-Vegetationsaufnahmen mit FlorApp: 1 m^2^-Kreis, «shoot presence», %-Deckungen, Ort versichert nach BDM-Methodik, Fokus auf Moor- und Magerwiesenvegetation, Auswertung mit VEGEDAZ. Die punktgenau wiederholbaren Vegetationsaufnahmen eignen sich für erneute Aufnahme im Rahmen eines allfälligen Monitorings. Vegetationskartierungen sind mit Ungenauigkeiten behaftet: einerseits Lageungenauigkeit und andererseits ein grosser Bearbeitereffekt, der mit der Vegetationsentwicklung zum Kartierzeitpunkt und v.a. mit der gutachterlichen Arbeitsweise der kartierenden Person zusammenhängt. Darum sind gutachterliche Vegetationskarten als Grundlage für Monitorings ungeeignet. Nichtdestotrotz gibt die Vegetationskartierung eine gute Übersicht zur Vegetation des Gebiets und kann als Grundlage für die Planung dienen.
+
+## Ergebnisse
+
+### Flora
+
+Für den Projektperimeter liegen 2990 Fundmeldungen vor von 471 verschiedene Gefässpflanzen-Taxa/Benennungen, welche sich 418 Arten zuordnen lassen (ohne Doppelte Zählung von Aggregaten, Arten und Unterarten; Anhang 1 & 2). Für das ca. 1 km^2^ grosse Gebiet ist das angesichts der Geologie (saure Gesteine und Böden) und der Höhenlage (subalpin) eine überraschend hohe Artenzahl, die sich mit der guten Erforschung des Gebiets (insb. Bachmann und Bachmann 2020) und der grossen Lebensraumvielfalt (vgl. Kap. Vegetation) erklären lässt.
+
+35 der (Unter)arten sind gemäss der Roten Listen zumindest regional potenziell gefährdet, wobei es sich bei 5 dieser Arten um nicht natürliche (kultivierte) Vorkommen handelt und bei 14 (Unter)arten die Bestimmung resp. das Vorkommen kritisch zu überprüfen wäre (Anhang 3). Bei den Rote-Liste-Arten stechen zwei Artengruppen für allfällige Förderprojekter heraus: i) Arten der Moore (insbesondere *Lycopodiella inundata* und *Rhynchospora alba* sowie die Hochmoor-Arten *Carex pauciflora*, *Drosera rotundifolia* und *Eriophorum vaginatum*) und (ii) Arten von eher trockenwaren Lebensräumen (insbesondere *Cuscuta europaea, Lilium bulbiferum, Pseudolysimachion spicatum, Rosa villosa* und *Trifolium aureum*).
+
+### Vegetation
+
+Der folgende Text gibt eine kurze Übersicht zur Offenlandvegetation von Ces. Das Ökogramm der Vegetationsaufnahmen (@fig-oekogramm) gibt dazu eine datenbasierte Interpretationshilfe. Ein ausführlicherer Kartierbericht wurde in Angriff genommen aber aus Ressourcengründen vorerst auf Eis gelegt. Im Anhang finden sich die Vegetationsaufnahmen (Anhang 4-6) und der Verweis auf die Geodaten (Anhang 7).
+
+![Ökogramm der Vegetationsaufnahmen, beschriftet mit Artenzahl/PlotID.](/images/Oekogramm_Plot.png){#fig-oekogramm}
+
+Die zentrale und häufigste Vegetationseinheit der Ebene von Ces ist der Borstgrasrasen (*Nardion* 4.3.5.) was einer sauren und nährstoffarmen subalpinen Wiese/Weide entspricht. Auf Flächen mit mehr Nährstoffen wächst ein Wiesen/Weidetyp, der als Straussgraswiese (*Festuco-agrostietum* gemäss Dietl et al 1981) kartiert wurde (entspricht in Delarze et al (2015) am ehesten einem mageren *Polygono-trisetion*, oder einem fetten *Nardion*). Auf gut gedüngten Flächen nahe des Dorfs wächst schliesslich die Talfettweide (*Cynosurion* 4.5.3.). An flachgründigen meist steilen Flanken sind die Bedingungen noch trockener als im Borstgrasrasen. Dort wächst die Buntschwingelhalde (*Festucion variae* 4.3.6.) oft verzahnt mit Felsen mit Silikatfelsflur (*Androsacion vandellii* 3.4.2.2.) und Silikatfelsgrusflur des Gebirges (*Sedo-Scleranthion* 4.1.4.). Letztere ist auch der typische Bewuchs von Lesesteinhaufen und Trockensteinmauerkronen im Gebiet, die als Strukturen kartiert wurden.
+
+Im feuchten bis nassen Bereich ist das Kalkarme Kleinseggenried (*Caricion fuscae* 2.2.2.) zentral, es entspricht einem sauren Flachmoor (feucht, sauer, mager). Wo in der Ebene von Ces zusätzlich Nährstoffe hinzukommen, bilden sich Nährstoffreiche Feuchtwiesen aus (*Calthion*, 2.3.2.). Teile der Mooren von Verengo wurden als Hochmoor (2.4.1. *Sphagnion magellanici*) kartiert. Dieses ist noch feuchter und v.a. noch magerer als das kalkarme Kleinseggenried. Ausbleibende Bewirtschaftung der Moorflächen fördert schwer klassifizierbare Brachen, die als «Moorumfeld» kartiert wurden. Allgemein verbrachte und/oder mit Pfeifengras verbrachte Varianten von Vegetationseinheiten wurden als solche gekennzeichnet. Zwei Flächen ausserhalb der Moore von Verengo wurden als Pfeifengrasbrache (4.6.4.) auskartiert.
+
+Auf weitere Ausführungen wird hier aus Platzgründen verzichtet.
+
+Punkte mit besonders schön ausgeprägter Vegetation wurden markiert (@fig-vegetationskarte). Besonders wertvoll und förderungswert sind die arten- und blütenreichen Ausprägungen des Borstgrasrasen, die Buntschwingelhalde sowie die Flach- und Hochmoore. Im Gebiet fragmentarisch vorhanden und darum förderungswert ist Trockenwarmes Gebüsch (*Berberidion* 5.3.2.) und damit verzahnt wachsende Saumvegetation.
+
+![Vegetationskarte des Gebiets](/images/Vegetationskarte.jpg){#fig-vegetationskarte}
+
+
+
+## Vorschläge Fördermassnahmen
+
+### Moore von Verengo
+
+Als wichtigsten Pflegeeingriff (wenig Aufwand, grosse Langzeitwirkung) sehe ich die radikale Entfernung der teils sehr zahlreichen jungen Fichten und Lärchen aus den Moorflächen. Weil die meisten Flächen einen gestörten Wasserhaushalt haben, würden sie ohne Eingriff verwalden und darum kann man mit der regelmässigen Entfernung des Jungwuchses künftige teure Holzerarbeiten vermeiden. Einzig die südliche Fläche mit der Vegetationsaufnahme Nr. 17 (@fig-vegetationskarte) scheint genug Wasserrückhalt zu haben, so dass die Fichten im Moor kleine «Bonsais» bleiben. Dort würde ich nur 3/4 der Bäumchen entfernen. Ressourcen für Holzerarbeiten wären gut am Rand der Moore eingesetzt, wo man im Stil der kürzlich erfolgten Holzerarbeiten weitere Eingriffe zur Vernetzung und Vergrösserung der Flächen ausführen kann.
+
+Als jährlich wiederkehrenden Pflegeeingriff sehe ich die Ausweitung der Mahd. So wie es z.B. von Andres (2000) empfohlen wurde. Die Fläche vor dem «Jägerhaus» in Verengo wird bereits jährlich gemäht und hat eine entsprechen schön ausgeprägte (Hoch)Moorvegetation. Allenfalls könnte man mit den dort tätigen Personen Synergien zur Mahd nutzen. Problematisch an den ungemähten Flächen sind Bereiche mit dicken Schichten aus (Pfeifengras-)Streu, in welchen kaum noch Moose oder andere Gefässpflanzen als die dominierenden Gräser und Seggen wachsen können. Eine solche Fläche könnte man in einem Pilotversuch in die jährliche Mahd überführen (Zielvegetation: Kalkarmes Kleinseggenried mit Hochmoorarten).
+
+Realistische Massnahmen zur «baulichen» Verbesserung des Wasserhaushalt sehe ich keine. Glücklicherweise scheinen die als Hochmoor auskartierten Flächen ökologisch stabil und von Mahd unabhängig zu sein.
+
+Drei als Hochmoor kartierten Flächen sind aktuell nicht im Bundesinventar. Diese Flächen sollten dem bestehenden Objekt 3704 Verengo zugefügt werden (Karte mit dem Objekt und den drei Flächen: https://s.geo.admin.ch/0cmzzl2ccfha)
+
+Auf der nordwestlichen Fläche mit der Vegetationsaufnahme Nr. 12 (@fig-vegetationskarte) sollten -- ausser der Entfernung von jungen Fichten und Lärchen und forstlichen Massnahmen im Randbereich -- keine Eingriffe vorgenommen werden. Die Fläche scheint unbewirtschaftet und in einem ökologischen Gleichgewicht: auf den offenen Torfstellen (Hirschsuhlen) wächst die gefährdete *Lycopodiella inundata* und auch die gefährdete *Rhynchospora alba* (Bereits von Andres 2000 festgestellt) wächst dort in einem stabilen Bestand.
+
+### Ebene von Ces
+
+Eine jährliche Mahd (ggf. Beweidung) ist die effektivste Massnahme, um blumenreiche Wiesen auf der Ebene von Ces zu fördern. Als Zielvegetation können die Bereiche mit den Vegetationsaufnahmen 01, 03, 09 und 10 (@fig-vegetationskarte) dienen. An der aktuellen (und vergangenen) Bewirtschaftung dieser Flächen kann man sich orientieren.
+
+Auch die Flachmoore profitieren von einer jährlichen Bewirtschaftung. Als Zielvegetation und Inspiration zur Bewirtschaftung der Flachmoore kann die Fläche mit Vegetationsaufnahme 22 (@fig-vegetationskarte) dienen.
+
+Die brach liegenden Flächen im Nordosten der Ebene weisen grosse Streu-Akkumulation auf, welche die Artenvielfalt schmälert und die Bewirtschaftung zunehmend erschwert. Diese Flächen sollten dringend wieder bewirtschaftet werden.
+
+Auch die Ebene von Ces ist akut von der Verwaldung bedroht. Hier sollte man im Dreijahresrhythmus alle jungen Bäumchen entfernen, so wie es in der Alpbewirtschaftung auf subalpiner Stufe üblich ist. Forstliche Eingriffe zur Vergrösserung der Wiesen- und Weideflächen in den Randbereichen der Ebene lohnen sich. Insbesondere der als Borstgrasrasen kartierte Streifen auf der Westseite der Ebene mit besonders schöner Vegetation (z.B. *Arnica montana*, *Gentiana acaulis*, *Pedicularis tuberosa*) könnte vergrössert werden, indem man dort die Fichten aus dem Wald entfernt und eine lichte Lärchenweide schafft.
+
+Und schliesslich könnte man die im Gebiet fragmentarisch vorhanden und darum förderungswerten Trockenwarmen Gebüsche (*Berberidion* 5.3.2.) und damit verzahnt wachsende Saumvegetation fördern. Ein erster Schritt dazu wäre die Erhebung aller *Rosa*-Kleinarten im Gebiet sowie die Überprüfung der Fundmeldungen resp. Vorkommen einiger nicht sicher nachgewiesenen aber förderungswerten Saum-Arten (z.B. *Fragaria viridis*, *Pimpinella nigra* und *Trifolium alpestre*).
+
+## Quellen
+
+Bachmann T. & Bachmann Ph. (2000). Ces 2020. Interner Bericht mit Gefässpflanzen-Artenlisten.
+
+Delarze R., Gonseth Y., Eggenberg S., Vust (2015) Lebensräume der Schweiz Ökologie - Gefährdung - Kennarten. Auflage. Bern: Ott Verlag
+
+Dietl W., Berger P., Ofner M. (1981) Die Kartierung des Pflanzenstandortes und der futterbaulichen Nutzungseignung von Naturwiesen. Zürich: Eidg. Forschungsanstalt für landw. Pflanzenbau Zürich-Reckenholz
+
+Andres (2000) Paludi del Ticino: Oggetto 3704 -- Verengo. Inventario delle paludi d\'importanza nazionale. Bericht mit Anhang.
+
+## Anhang
+
+- **1_Alle_Funde_wichtigste_Spalten.xlsx**: Alle 2990 Funde mit den wichtigsten Informationen: Taxon, Koord_x, Koord_y, Koord_Präzision Gefährdung, Rote_Liste_CH Rote_Liste_Südalpen, Datum, Datenquelle.
+- **2_Alle_Funde_Kompletttabelle.xlsx**: Alle 2990 Funde mit allen Informationen aus allen verschiedenen Quellen.
+- **3_Gefährdete_Arten.xlsx**: Kommentierte Lister der 35 gefährdeten Arten mit allen 197 Fundmeldungen dieser Arten im 2. Tabellenblatt.
+- **4_Vegetationsaufnahmen.csv**:  Bereinigte und ausgewertete (wurzelgewichtete mittlere Zeigerwerte) Vegetationsaufnahmen.
+- **5_Vegetationsaufnahmen_Arten_def.csv**
+- **6_Vegetationsaufnahmen_Kopfdaten_def.csv**:  Rohdaten (Feldbuch-Export) der Vegetationsaufnahmen.
+- **7_Fotos_und_GIS.txt**:  Verweis auf Anhänge die aufgrund grosser Dateigrössen auf Anfrage gesendet werden:
+  - **Fotos.zip** (0.4 GB): Insgesamt 185 Fotos der Feldtage. Darunter Fotos aller Vegetationsaufnahmeflächen und viele Fotos der Moore von Verengo\
+  - **GIS.zip** (0.7 GB): Gesamtes GIS-Projekt mit der Vegetationskartierung Stand 30.11.2024
+

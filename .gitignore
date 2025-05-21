@@ -1,0 +1,13 @@
+Abgegebene_Berichte
+.Rhistory
+.Rproj.user
+.quarto
+_book
+/.quarto/
+tmpdir
+images/
+_output-*
+geodata
+Waldentwicklung
+Links_zu_Webpages.txt
+Berichte_gesplittet

@@ -1,0 +1,27 @@
+
+
+# Einleitung {.unnumbered}
+
+
+Ces ist ein Nordtessiner Bergdorf auf 1450 m. Es ist nur zu Fuss erreichbar und liegt in einer vielfältigen Umgebung. Die "Stiftung zum Wiederaufbau von Ces" engagiert sich seit 1972 für den Erhalt des Dorfes.
+
+Im Rahmen des Projekts "Ökologische und landschaftliche Aufwertungen in Ces" wurde im Jahr 2024 die Artenvielfalt in Ces umfassend erhoben. Die Ergebnisse dienen als Grundlage für den Erhalt der Artenvielfalt und die gezielte Förderung wichtiger Arten.
+
+
+::: {.content-visible when-profile="publikum"}
+
+
+Diese Homepage umfasst von Arten-Spezialist*innen verfassten Texte, die als Grundlage dienen für eine Publikumsbroschüre, in welcher die Artenvielfalt von Ces einem breiten Publikum präsentiert wird. Die internen technischen Berichte mit den vollständigen Ergebnissen und konkreten Vorschlägen für Förderungsmassnahmen sind auf Anfrage verfügbar.
+
+
+![(Jonas Landolt) Insektenspezialistin bei der Arbeit in Ces.](/images/Insektenspezialistin.jpg)
+
+
+:::
+
+
+::: {.content-visible when-profile="technisch"}
+
+Dieses Dokument umfasst die von Arten-Spezialist*innen verfassten internen technischen Berichte mit den vollständigen Ergebnissen und konkreten Vorschlägen für Förderungsmassnahmen. Die Anhänge zu den Berichten sind auf Anfrage verfügbar.
+
+:::

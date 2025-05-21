@@ -1,0 +1,90 @@
+---
+title: Moose
+author:
+  - name: Markus K. Meier
+    email: mkmeier@flora-fauna.ch
+    phone: 079 710 15 51
+    affiliations:
+      - name: flora+fauna consult, Hardturmstrasse 269, CH-8005 Zürich 
+# 10.12.2024
+---
+
+
+Autor:In          | Kontakt
+------------------|------------------------------------------
+Markus K. Meier   | flora+fauna consult, Hardturmstrasse 269, CH-8005 Zürich 
+
+: {tbl-colwidths="[50,50]"}
+
+
+
+
+## Methodik
+
+Die Moosflora von Ces wurde am 16. und 17. August 2024 erhoben. Dabei wurden möglichst viele unterschiedliche Lebensräume abgesucht und zahlreiche Moose gesammelt und später anhand mikroskopischer Merkmale nachbestimmt. Im Feld sicher erkennbare Arten wurden ebenfalls oft notiert (inklusive Koordination), ohne aber eine vollständige Übersicht über die lokale Verbreitung der einzelnen Taxa anzustreben. Die Daten wurden ergänzt durch Aufsammlungen des Autors aus früheren Jahren (1993, 1994, 2002 und besonders 2011), welche dazu grossteils noch aufgearbeitet (bestimmt) werden mussten. Insgesamt liegen damit über 750 Datensätze, verteilt auf ca. 213 Arten vor. Die Daten werden an das Datenzentrum swissbryophytes.ch übermittelt, ein repräsentativer Teil der gesammelten Herbarbelege wird dem Museo cantonale di storia naturale, Lugano (LUG) übergeben.
+
+### Gebietsabdeckung, untersuchte Lebensräume und Vollständigkeit
+
+Mit den Erhebungen von 2011 und 2024 sind grosse Teile des Gebietes begangen und abgesucht worden: Das Siedlungsgebiet (das „Dorf" Ces) mit seinen Wegen, Ruinen, Gehölzen, Ruderalflächen, Brunnen), die baumfreie Hochebene (Weiden, Trocken- und Feuchtwiesen, Gehölze, Wiesenbäche, Tümpel, Felsblöcke, kleine Felswände), die Moore (Verénc), Waldweiher (Lempénc), Fliessgewässer (insbesondere der Ri d'Ces bei den Wasserfällen oberhalb des Dorfes sowie unterhalb bei der Brücke (P. 1355) und zahlreiche Waldstücke. Bei den Erhebungen 2024 wurden besonders auch die bisher vernachlässigten Randregionen am Nordost-Abhang zur Leventina berücksichtigt, wo sich die baumbestandenen Weiden zunehmend zu geschlossenem (in früheren Jahrhunderten vielleicht ebenfalls offenen) Wald verdichten und sich moosartenreiche Felsaufschlüsse hinziehen. Ebenfalls miteinbezogen wurde eine Blockschutthalde unterhalb Motte Albei. Insgesamt wurde bei den Untersuchungen also annähernd die gesamte Lebensraumvielfalt abgedeckt.
+
+### Potential für weitere Artfunde
+
+Weitere Moosarten könnten in Gärten (offenerdige Ruderalstandorte), übersehenen Sonderstandorten in Mooren, an bisher nicht untersuchten Felswänden (z.B. in der Schlucht des Ri d'Ces südwestlich Dorf; zwischen Lempénc und Segna Marcia) und vielleicht an weiteren Totholz-, Gesteins- und Trockenstandorten gefunden werden --- allerdings ist das Potential eher gering und die Artenzahl dürfte wohl nicht mehr als 250 Arten im Gebiet erreichen. Ausserdem existieren noch zahlreiche Belege (besonders Grimmiaceae und Sphagnum), welche aufgrund des beträchtlichen Aufwandes nicht bestimmt werden konnten, aber wohl nicht sehr viele zusätzliche Arten enthalten.
+
+### Monitoring und Bioindikation
+
+Moose sind grundsätzlich sensitive Bioindikatoren und ihr Nachweis ist verhältnismässig einfach, jedenfalls sofern die Arten im Feld einigermassen gut erkennbar sind. Die erhobenen Punktdaten sind allerdings keine gute Grundlage für ein Monitoring, da definierte quantitative Angaben und eine repräsentative Standortsauswahl fehlen. Immerhin könnte dank den auf 5--10 m genauen Ortsangaben der Fortbestand oder das Verschwinden einzelner Subpopulationen beurteilt werden, etwa des gefährdeten *Calliergon richardsonii* im Lempénc-Weiher, von (eher gewünschten) Störungszeigern in Mooren (z.B. *Sarmentypnum* sp., *Sphagnum tenellum*). Grossräumigere Änderungen (etwa Einwanderung von thermophilen Arten) sind schwerer zu beurteilen, aber auch hier könnte die umfassende Artenliste dereinst Hinweise liefern.
+
+Zum Monitoring der Moore geeignet und wichtig sind jedoch die von Daniel Hepenstrick bei den Vegetationsaufnahmen in Mooren gesammelten und hier nicht berücksichtigten Moose!
+
+## Ergebnisse
+
+Insgesamt wurden per dato in und um Ces 213 Moosarten nachgewiesen, nämlich 45 Lebermoose und 168 Laubmoose, davon sind 4 gefährdet, 13 potenziell gefährdet und 15 geschützt.
+
+### Gefährdete Arten 
+
+Siebzehn bzw. 8% der gefundenen Arten gelten gemäss der Roten Liste der Moose (Kiebacher, Meier & al. 2023) als gefährdet oder potentiell gefährdet, die meisten sind Moose von Feuchtstandorten.
+
+Stark gefährdet (EN), 1 Art: *Calliergon richardsonii*.
+
+Verletzlich (VU), 3 Arten: *Riccardia chamedryfolia*, *Bryum mildeanum*, *Pseudocampylium radicale*.
+
+Potenziell gefährdet (NT), 13 Arten, davon 6 Torfmoosarten: Lebermoose: *Diplophyllum obtusifolium*, *Marsupella aquatica*; Torfmoose: *Sphagnum angustifolium*, *S. capillifolium*, *S. fallax*, *S. medium*, *S. plathyphyllum*, *S. tenellum*; übrige Laubmoose: *Dicranum majus*, *Fissidens gymnandru*s, *Hookeria lucens*, *Plagiobryum zieri*, *Stereodon pratensis*.
+
+### Geschützte Arten
+
+Sämtliche Arten der Gattungen *Sphagnum* und *Leucobryum* (aufgeführt als *Leucobryum glaucum* aggr.) sind gemäss NHV schweizweit geschützt. Dies betrifft in Ces die 12 gefundenen Torfmoose (*Sphagnum*) und die bisher nicht näher bestimmten Arten des *Leucobryum glaucum* aggr.
+
+Zwei weitere Arten sind nach NHV kantonal zu schützen, gleichzeitig handelt es sich dabei um Smaragdarten und sie sind durch die Berner Konvention europaweit geschützt: *Buxbaumia viridis, Orthotrichum rogeri*. Diese beiden Arten gelten in der Schweiz (nicht mehr) als gefährdet.
+
+## Vorschläge Fördermassnahmen
+
+### Totholz
+
+Totholz ist in Ces nicht so häufig und sollte gefördert werden. Mit 21 gefundenen Arten ist das Potenzial noch nicht ausgeschöpft. So wurden Gemmen des geschützten Koboldmooses, *Buxbaumia viridis*, bisher nur auf einer lebenden Fichte gefunden. Wertvoll sind insbesondere grosse liegende Stämme an feuchtschattigen Stellen.
+
+### Kleinstrukturen: Trockenmauern, feuchte Mulden, Feldgehölze
+
+Bei Unterhaltsmassnahmen sollen idealerweise moosbewachsene Trockenmauern nicht beeinträchtigt, feuchte Stellen in Weiden nicht drainiert oder aufgeschüttet, Feldgehölze nicht gerodet werden. Feldgehölze (Holunder, Mehlbeere, Linde, Ahorn, Esche, Birke, Kirsche) sind besonders bedeutend für die Goldhaarmoose, u.a. die Smaragdart *Orthotrichum rogeri*.
+
+### Hydrologie
+
+Grundsätzlich sollen in jedem Fall bei allen Aktivitäten die Auswirkungen der Hydrologie beachtet werden, d.h. die ausreichende Wasserversorgung der Moore, feuchten Wälder, Bäche und Weiher (Lempénc) sichergestellt werden.
+
+### Nordisches Prachtmoos
+
+Ein besonderes Augenmerk sollte auf die Population von *C. richardsonii* gerichtet werden: Genauere Dokumentation der Populationsgrösse, Begleitarten und Entwicklung. Interessant wäre in diesem Zusammenhang eine kontinuierliche Messung des Wasserpegels.
+
+### Hochmoore und feuchte Weiden / Flachmoore
+
+Nebst dem Erhalt der Moore (Hydrologie, Entfernung von Gehölzen falls nötig) ist darauf zu achten, dass auch genügend kleinflächige Störstellen vorhanden sind, welche für viele Spezialisten, z.B. *Sphagnum tenellum*, von Bedeutung sind. Mässige Beweidung und Zugang für Wildtiere zulassen!
+
+
+## Anhang
+
+*Funddaten Moose Ces2024 MKMeier.xlsx* (EXCEL-Tabelle mit Arten, Koordinaten,und übrigen Angaben, separate Artenliste mit deutschen Namen)
+
+*ces_loc_v2.kml* (kml-Datei mit placemarks und als description Angaben zum Fundort und Tabelle aller gefundenen Arten. Achtung: Daten nicht bereinigt. Koordinaten z.T. falsch besonders für Varenc (2011), enthält auch nicht gekennzeichnete Feldbestimmungen, also evt. \'falsche\' Artnamen.)
+
+Die Bildgrundlage für die zusammengesetzten Bilder (Torfmoose, Felsen, Syntrichia) sind auf Anfrage erhältlich.
+

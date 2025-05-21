@@ -1,0 +1,39 @@
+---
+title: Lebensräume und Waldentwicklung
+author:
+  - name: Daniel Hepenstrick
+    role:  Autor Bericht
+    email: hepenstrick@botanikon.ch
+    phone: 079 751 86 81 
+    affiliations:
+      - name: Botanikon Daniel Hepenstrick, Schreinerstrasse 52, 8004 Zürich
+---
+
+Autor:In          | Kontakt
+------------------|------------------------------------------
+Daniel Hepenstrick   | Botanikon, Schreinerstrasse 52, 8004 Zürich
+
+: {tbl-colwidths="[50,50]"}
+
+## Methodik
+
+Die Lebensraumkartierung (Methodik, Ergebnisse etc.) ist im Kapitel Gefässpflanzen beschrieben.
+
+Die Ausdehnung des Waldes inkl. freistehender Bäume wurde auf Luftbildern aus den Jahren 1961, 1999 und 2021 in QGIS von Hand nachgezeichnet. Die Daten sind im Anhang und online interaktiv auf www.cesbiodiv.ch einsehbar. Aufgrund der Digitalisierung von Hand, der unterschiedlichen Qualität der Luftbilder und teils schwieriger Abgrenzung (Schattenwurf und Unterscheidung von Wald vs. Gebüsch) sind die Polygone mit Ungenauigkeit behaftet. Die generelle Entwicklung ist jedoch gut abgebidet.
+
+## Ergebnisse
+
+Der Wald wurde in einer rechteckigen Flächen 174.3 ha digitalisiert. Die Waldfläche betrug 1961 112.65 ha, 1999 146.85 ha und 2021 146.95 ha. Somit hat die bewaldete Fläche zwischen 1961 und 1999 um 30 % zugenommen und ist dann in der Summe bis 2021 gleich geblieben. Die umveränderte Waldfläche zwischen 1999 und 2021 liegt hauptsächlich an den aufgrund von Borkenkäferbefall grossflächig geholzten resp. abgestorbenen Waldflächen, welche die andernorts zunehmende Verwaldung kompensierten. Zudem sind zwischen 1999 und 2021 die Forsteigriffe in Verengo, Sciit und Lemenc ersichtlich, welche dort den Wald erfolgreich zurückdrängten.
+Auffallend ist zudem, dass auf der Ebene von Ces 1961 kaum freistehende Bäume vorhanden waren, während 1999 bereits zahlreiche freistehende Bäume ersichtlich sind, deren Wachstum bis 2021 deutlich zu erkennen ist.
+Aus Offenlandperspektive hat die Offenlandfläche aufgrund der Verwaldung zwischen 1961 und 1999 um 55 % abgenommen.
+
+## Vorschläge Fördermassnahmen
+
+Mehr Totholz (vgl. Kapitel Flechten) und Lichter Wald sind erstrebenswert und biodiversitätsfördernd. Massnahmen gegen die grundsätzlich biodiversitätsvermindernde Verwaldung sind im Kapitel Gefässpflanzen behandelt.
+
+## Anhang
+
+- **01_copped**: 13 Luftbilder zwischen 1961 und 2021
+- **cropped.qgz**: QGIS-Projekt mit den Wald-Polygonlayers 1961, 1999 und 2021
+
+

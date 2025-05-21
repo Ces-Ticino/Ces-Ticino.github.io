@@ -1,0 +1,143 @@
+---
+title: Amphibien Reptilien
+author:
+  - name: Niklaus Peyer
+    email:  niklaus_peyer@yahoo.de
+    phone:  076 570 77 35
+    affiliations:
+      - name: Naturschutz und Feldherpetologie Peyer, Hobacherstrasse 25, 8913 Ottenbach
+# 30.11.2024
+---
+
+
+Autor:In          | Kontakt
+------------------|------------------------------------------
+Niklaus Peyer | Naturschutz und Feldherpetologie Peyer, Hobacherstrasse 25, 8913 Ottenbach
+
+
+: {tbl-colwidths="[50,50]"}
+
+
+
+## Methodik
+
+Um zu bestimmen, welche Amphibien- und Reptilienarten im Untersuchungsgebiet vorkommen, wurde der Projektperimeter am 13. und 14. Juli 2024 insgesamt fünf Mal begangen und auf Sicht nach Tieren abgesucht. Die Begehungs-Routen wurden vor Ort so gewählt, dass möglichst das ganze Untersuchungsgebiet mit allen potentiell geeigneten Lebensräumen untersucht werden konnten. Die Fundstellen wurden nach Art, Anzahl und Geschlecht mittels eines GPS-Geräts aufgenommen und nach Abschluss des Projektes an das Nationale Daten- und Informationszentrums der Schweizer Fauna (CSCF) übermittelt. Gleichzeitig wurden alle vorhandenen Lebensräume auf Ihren aktuellen Zustand eingeschätzt, um entsprechende Fördermassnahmen zu definieren.
+
+## Ergebnisse
+
+Es konnten insgesamt eine Amphibienart und 5 Reptilienarten im Projektperimeter nachgewiesen werden (ausführliche Funddaten im Anhang):
+
+Amphibien:\
+Grasfrosch (*Rana temporaria*), nicht gefährdet (LC)
+
+Reptilien:\
+Mauereidechse ( *Podarcis muralis*), nicht gefährdet (LC)\
+Schlingnatter (*Coronella austriaca*), stark gefährdet (EN)\
+Westliche Smaragdeidechse, (*Lacerta bilineata*), verletzlich (VU)\
+Barren-Ringelnatter (*Natrix helvetica*), stark gefährdet (EN)\
+Aspisviper (*Vipera aspis*), stark gefährdet (EN)
+
+Das bedeutet jedoch nicht, dass aktuell sicher keine anderen Amphibien- oder Reptilienarten im Projektperimeter und dessen unmittelbaren Umgebung vorkommen oder diese Bereiche zumindest zeitweise durchqueren. Einerseits weisen die verschiedenen Arten oft ein sehr unterschiedliches saisonales Aktivitätsmuster auf und andererseits sind einige Arten viel weniger auffällig als andere und werden deshalb oft übersehen.
+
+In der Datenbank des Nationalen Daten- und Informationszentrums der Schweizer Fauna (CSCF) werden auch noch folgende einheimische Amphibien- und Reptilienarten im Kilometerquadrat des Projektperimeters aufgelistet:
+
+Amphibien:\
+Bergmolch (*Ichthyosaura alpestris*) 2007\
+Feuersalamander (*Salamandra salamandra*) 2022
+
+Reptilien:\
+Äskulapnatter (*Zamenis longissimus*) 2022
+
+Bergmolche verlassen ihre Gewässer meist bis im Juni und der Feuersalamander ist fast nur bei Regen anzutreffen. Die Äskulapnatter steigt im Tessin nur bis ca. 1\'300 m.ü.M. und erreicht damit die Alp Ces gar nicht. Sie und andere Arten reagieren zudem auch sehr unterschiedlich auf verschiedene Wetterlagen. Es kann ihnen schnell zu heiss oder zu trocken werden und dann sind sie kaum mehr zu sehen.
+
+Bemerkenswert war der Fund einer Barren-Ringelnatter (Natrix helvetica) auf der Alp Ces in einer Höhe von 1'460 m.ü.M. In der Schweiz werden höhere Regionen über 800 m.ü.M. von dieser Art kaum besiedelt. Auch im Rahmen des Tessiner Reptilieninventares zwischen 1989 und 1994 konnten keine Nachweise dieser Art auf über 1'400 m.ü.M. gemacht werden, obwohl schon einzelne Beobachtungen im Tessin auf bis zu einer Höhe 1\'850 m.ü.M. gemeldet wurden.
+
+Aufgrund der in dieser Untersuchung gewonnenen Kenntnissen, den vorhandenen Lebensraumtypen und den in der Fachliteratur beschriebenen artspezifischen Lebensraumansprüchen, Verbreitungsdaten und Höhenverbreitungen usw. kann auch angenommen werden, dass auch die Italienische Blindschleiche (*Anguis veronensis*) auf der Alp Ces vorkommt. Sie steigt im Tessin bis mindestens 1\'900 m ü.M., lebt jedoch sehr versteckt und ist nur sehr selten offen und völlig ohne Deckung anzutreffen.
+
+Für abschliessende Aussagen bezüglich der genauen aktuellen An- oder Abwesenheit der einzelnen Amphibien- und Reptilienarten im Projektperimeter wären also umfangreichere Aufnahmen über grössere Zeiträume benötigt, die auch die verschiedenen Jahreszeiten umfassen.
+
+## Vorschläge Fördermassnahmen
+
+Die Amphibien- und Reptilienlebensräume auf der Alp Ces sind in einem guten Zustand und weisen eine Vielzahl von unterschiedlichen Lebensraumtypen auf. Besonnung, Feuchtigkeit, Deckungsgrad der Vegetation, Exposition etc. variieren mosaikartig und bieten diverse Mikrohabitate.
+
+Für Schutz und Förderung ist es essentiell vorhandene Gewässer, Kleinstrukturen (Stein-, Ast-, Holzhaufen, Holzbeigen etc.) und lineare Vernetzungskorridore (Hecken, Böschungen, Waldränder) weiterhin zu erhalten, zu pflegen sowie gegebenenfalls mit neuen Strukturen aufzuwerten. Auch kleine Flächen sind als Trittsteinbiotope wichtig für eine ökologisch funktionierende Vernetzung der Lebensräume und Populationen von Amphibien, Reptilien und anderen Kleintieren.
+
+Pflege- und Unterhaltsmassnahmen finden optimaler Weise im Spätsommer oder Herbst (bis Ende Oktober) statt. Grössere Flächen sind nach dem Rotationsprinzip gestaffelt zu mähen, mit mehreren Tagen oder wenn möglich bis zu zwei Wochen Abstand zwischen den einzelnen Schnitten. Zur Mahd sind möglichst keine Absaugvorrichtungen, Schlegelmähköpfe oder Kreiselmäher sondern Balkenmäher zu verwenden und eine Schnitthöhe von mindestens 15 cm über Boden einzuhalten. Das Schnittgut soll vor dem Abtransport mindestens 1 Tag liegen gelassen werden, damit Kleintiere flüchten können.
+
+Aufgrund der Aktivitätsperioden von Amphibien und Reptilien dürfen Unterhaltsarbeiten in besonders wertvollen und/oder sensiblen Bereichen nur zwischen Ende April bis Mitte Oktober ausgeführt werden. Ansonsten sind die Tiere in der Winterruhe und können sich nicht vor den Bautätigkeiten in Sicherheit bringen. Insbesondere die Entfernung von Kleinstrukturen oder Gehölzen und Terrainveränderungen (z.B. Bodenabtrag) sollen nicht ausserhalb dieser Zeit durchgeführt werden. Falls solche Arbeiten nicht zwischen Ende April bis Mitte Oktober durchgeführt werden können, istgegebenenfalls durch eine Fachperson vorgängig abzuklären, ob dabei wichtige Überwinterungsstellen beeinträchtigt werden und wie anwesende Tiere zu schützen sind.
+
+Durch die Anlage von Eiablageplätzen für Ringelnattern und andere Schlangen sowie zusätzlichen permanenten oder semi-permanenten Kleingewässern für Amphibien kann insbesondere die Ringelnatter und ihre Beute, der Grasfrosch, auf der Alp Ces weiter gefördert werden.
+
+Detaillierte fachliche Empfehlungen für spezifische Schutz- und Förderungsmassnahmen können den umfangreichen Dokumentationen der Koordinationsstelle für Amphibien und Reptilienschutz der Schweiz info fauna (karch) entnommen werden. Diese Merkblätter sind online verfügbar und können unter www.karch.ch abgerufen werden (siehe Anhang).
+
+## Quellen
+
+Baur B., Duelli P., Edwards P.J., Jenni M., Klaus G., Künzle I., Martinez S., Pauli D., Peter K., Schmid B., Seidl I., Suter W. (2004): Biodiversität in der Schweiz: Zustand, Erhaltung, Perspektiven. Wissenschaftliche Grundlagen für eine nationale Strategie. Haupt Verlag, Bern.
+
+Kery, M. (2002): Inferring the absence of a species -- a case study of snakes. -- Journal of Wildlife Management 66: 330-338.
+
+Schmidt B.R., Mermod M., Zumbach S. 2023: Rote Liste der gefährdeten Amphibien der Schweiz. Hrsg. Bundesamt für Umwelt (BAFU), Bern, und info fauna karch / Koordinationsstelle für Amphibien- und Reptilienschutz in der Schweiz, Neuenburg. Umwelt-Vollzug.
+
+Ursenbacher S., Meyer A. 2023: Rote Liste der gefährdeten Reptilien der Schweiz. Hrsg. Bundesamt für Umwelt (BAFU) Bern, und info fauna - karch Koordinationsstelle für Amphibien- und Reptilienschutz in der Schweiz, Neuenburg. Umwelt-Vollzug.
+
+info fauna (karch) Merkblätter:
+
+Autorenkollektiv info fauna (karch) 2012: Praxismerkblatt Einheimische Reptilien schützen und fördern. infofauna (karch) Centre national de données et d\'informations sur la faune de Suisse.
+
+Andreas Meyer, Goran Dusej, Jean-Claude Monney, Herbert Billing, Murielle Mermod, Katja Jucker, Maximilien Bovey 2011: Praxismerkblatt Kleinstrukturen Steinkörbe. infofauna (karch) Centre national de données et d\'informations sur la faune de Suisse.
+
+Andreas Meyer, Goran Dusej, Jean-Claude Monney, Herbert Billing, Murielle Mermod, Katja Jucker, Maximilien Bovey 2011: Praxismerkblatt Kleinstrukturen Steinhaufen und Steinwälle. infofauna (karch) Centre national de données et d\'informations sur la faune de Suisse.
+
+Andreas Meyer, Goran Dusej, Jean-Claude Monney, Herbert Billing, Murielle Mermod, Katja Jucker, Maximilien Bovey 2011: Praxismerkblatt Kleinstrukturen Holzhaufen und Holzbeigen. infofauna (karch) Centre national de données et d\'informations sur la faune de Suisse.
+
+Andreas Meyer, Goran Dusej, Jean-Claude Monney, Herbert Billing, Murielle Mermod, Katja Jucker, Maximilien Bovey 2011: Praxismerkblatt Kleinstrukturen Steinlinsen. infofauna (karch) Centre national de données et d\'informations sur la faune de Suisse.
+
+Andreas Meyer, Goran Dusej, Max Bütler, Jean-Claude Monney, Herbert Billing, Murielle Mermod, Katja Jucker, Maximilien Bovey 2011: Praxismerkblatt Kleinstrukturen Eiablageplätze für Ringelnattern und andere Schlangen. infofauna (karch) Centre national de données et d\'informations sur la faune de Suisse.
+
+info fauna (karch), Schweizerisches Toxikologisches Informationszentrum (STIZ) : Giftschlangen - was tun?. infofauna (karch) Centre national de données et d\'informations sur la faune de Suisse
+
+info fauna karch, Stiftung TierRettungsDienst, 2023: Hunde und heimische Giftschlangen. Hilfreiche Informationen für Hundehalterinnen und Hundehalter. info fauna karch
+
+Meyer A. 2023: Trockenmauern als Reptilienlebensraum - Reptilienfachliche Aspekte zur Sanierung von Trockenmauerwerk. infofauna (karch). Nationales Daten- und Informationszentrum der Schweizer Fauna.
+
+
+## Anhang
+
+Artenliste mit Koordinaten und Gefährdungskategorien
+
+### Aspisviper (*Vipera aspis*) 
+
+![Ein sehr dunkel gefärbtes Tier im nördlichen Teil der Alp Ces. (Foto: Niklaus Peyer)](/images/20240714_104634.jpg)
+
+
+
+Die Aspisviper (*Vipera aspis*) ist eine der beiden Giftschlangenarten der Schweiz. Angst muss man dennoch nicht vor ihnen haben, solange man genügend Vorsicht und Respekt walten lässt.
+
+Einerseits ist die Giftwirkung bei gesunden erwachsenen Menschen unter normalen Umständen nicht lebensbedrohlich und ruft unter Überwachung im Spital nur leichte Symptome hervor. Andererseits greifen Schlangen den Menschen nie an und Bissunfälle geschehen meist aus Unachtsamkeit, wenn man ein Tier anfasst oder darauf tritt.
+
+Wenn man ein paar einfach Verhaltensregeln befolgt, können solche Bissunfälle vermieden werden:
+
+- In unübersichtlichem Gelände nie barfuss gehen, sondern gutes Schuhwerk und lange Hosen tragen.
+- Kleinkinder nicht an unübersichtlichen Orten spielen lassen und ihnen die Gefahr erklären, die eine Schlange bei falschem Verhalten darstellen kann.
+- Schlangen nicht anfassen oder belästigen, aber aufmerksam machen und ihr die Gelegenheit zur Flucht ermöglichen. Bleibt sie trotzdem liegen, ruhig in etwa 2 Meter Abstand vorbeigehen.
+- Rastplatz vor der Benutzung auf Schlangen hin absuchen.
+- Nicht in Gebüsch und Gestrüpp greifen. Beeren- und Pilzsammler klopfen unübersichtliches Gebüsch erst mit einem Stock ab, um allfällig anwesende Schlangen zur Flucht zu veranlassen.
+- Vorsicht bei Handgriffen an unübersichtlichen Stellen, z.B. Holzstössen, Trockenmauern oder Steinhaufen.
+- Beim Aufheben von Steinen, Brettern oder ähnlichem darauf achten, dass sich darunter Schlangen verstecken könnten.
+- Wer Schlangen ums Haus hat, beseitigt Versteckmöglichkeiten und macht das Gelände übersichtlich: Gras kurz halten, Gestrüpp, Laub- und Steinhaufen, herumliegende Bretter, Blech- und Eternitplatten entfernen. Holzstösse wenn möglich im Schatten anlegen, da Schlangen von der Sonne erwärmte Stellen als Schlupfwinkel bevorzugen.
+
+Hunde sollten in Regionen und an Standorten, wo mit Giftschlangen zu rechnen ist, immer an kurzer Leine geführt werden. Auf der Alp Ces ist dies vor allem entlang des Weges, der im nordwestlichen Teil am verlassenen Rustico vorbei führt. Hier könnte zur Sicherheit auch ein Zaun entlang der Trockenmauer erstellt werden, damit Hunde nicht in die Nähe der Aspisvipern gelangen können.
+
+![Es braucht manchmal ein gutes Auge, um Aspisvipern zu entdecken. (Foto Niklaus Peyer)](/images/20240714_104848.jpg)
+
+
+
+![Normalerweise flüchten Aspisvipern sofort, wenn man ihnen näher als 2 Meter kommt. (Foto: Niklaus Peyer)](/images/20240714_104856.jpg)
+
+
+
+
+
+
+
+

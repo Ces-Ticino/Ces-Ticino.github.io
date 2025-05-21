@@ -1,0 +1,164 @@
+---
+title: Heuschrecken Libellen Tagfalter
+author:
+  - name: Jonas Landolt
+    email:  info@inatura.ch
+    phone:  079 298 49 44
+    affiliations:
+      - name: inatura.ch GmbH, Quellenstrasse 27, 8005 Zürich
+# 30.11.2024
+---
+
+::::{.content-visible when-profile="publikum"}
+
+## Einleitung Heuschrecken
+
+Im Sommer, wenn von den Vögeln nicht mehr allzu viel zu hören ist, übernehmen die Heuschrecken die Geräuschkulisse in der Natur. Die Männchen versuchen mit ihrem Gesang, dem sogenannten stridulieren, Weibchen anzulocken. In und um Ces konnten 20 verschiedene Heuschreckenarten nachgewiesen werden. Die Mehrheit davon sind Kurzfühlerschrecken, die zum Singen die Beine am Flügelrand reiben. Sieben Arten gehören zu den Langfühlerschrecken. Ihre Fühler sind länger als der Körper und die Männchen singen, indem die Flügel aneinander gerieben werden. Manchmal ist der Gesang so hoch, dass man ihn nur mit einem Ultraschalldetektor hört.
+
+
+### Rotflüglige Oedlandschrecke (*Oedipoda germanica*)
+
+![Jonas Landolt](/images/20240816_DSC_9556_JonasLandolt.jpg)
+
+
+Sie ist so gut getarnt, dass man sie erst beim Auffliegen sieht, dann aber ist sie nicht zu übersehen: Die Rotflüglige Oedlandschrecke. Ihre leuchtend roten Flügel sollen Fressfeinde wie Vögel abschrecken. Auf der Roten Liste wird die Art als verletzlich eingestuft, weil sie auf gut besonnte, offene Bodenstellen angewiesen ist, die vielerorts fehlen. In Ces kommt sie im Bereich der felsigen Kuppe «In Presú» noch vor.
+
+## Einleitung Libellen
+
+In fast allen Gewässern findet man Libellen, so auch in Ces. Die Larven leben im Wasser und ernähren sich räuberisch. Auch die ausgewachsenen Libellen sind Jäger und fressen verschiedene Kleininsekten. Man kann zwischen den schlanken Stäbchen mit beim Sitzen zusammengeschlagenen Flügeln, den Kleinlibellen und den kräftigeren Grosslibellen unterscheiden. In Ces wurden fünf Grosslibellen und eine Kleinlibelle an den aufgestauten Bächen gefunden.
+
+### Blaugrüne Mosaikjungfer (*Aeshna cyanea*)
+
+![Jonas Landolt](/images/20240714_DSC_5368_JonasLandolt.jpg)
+
+
+Die Männchen dieser Art patrouillieren im Sommer über dem Gewässer und verscheuchen andere Libellen. Währenddessen verbringen die Weibchen eine ruhige Zeit auf den Wiesen und an Waldrändern und kehren erst bei Geschlechtsreife an die Gewässer zurück.
+
+## Einleitung Tagfalter
+
+Wer mag sie nicht, die wunderbaren Schmetterlinge? Aber wer hätte gedacht, dass in und um Ces fast 50 verschiedene Arten vorkommen? Wenn man sich die Falter etwas genauer anschaut, merkt man, dass es immer wieder andere Arten sind, die herumfliegen. Diese Vielfalt ist der Nutzungsvielfalt und der vielseitigen und kleinstrukturierten Landschaft um Ces zu verdanken.
+
+### Südwestlicher Wachtelweizen-Scheckenfalter (*Melitaea caledussa*)
+
+![](/images/20240713_DSC_4643_JonasLandolt.jpg)
+
+![](/images/20240616_DSC_2579_JonasLandolt.jpg)
+
+![Jonas Landolt](/images/20240616_DSC_2573_JonasLandolt.jpg)
+
+Die Scheckenfalter haben ihren Namen von der Musterung der Flügeloberseite. Diese Art ist um Ces immer wieder anzutreffen. Ihre Raupe frisst unter anderem an Ehrenpreis (Veronica). Für viele Schmetterlinge ist der mikroklimatisch passende Standort und das Vorhandensein der Raupenfutterpflanze entscheidend.
+
+### Thymian-Widderchen (*Zygaena purpuralis*)
+
+![Jonas Landolt](/images/20240714_DSC_5460_JonasLandolt.jpg)
+
+
+Eigentlich gehören die Widderchen zu den Nachtfaltern. Das sie aber alle tagaktiv sind werden sie jeweils ebenfalls kartiert. Die Raupen dieser Art fressen an Thymian und dieser wächst bevorzugt auf den eher mageren Kuppen in der Wiese und entlang von Felsen.
+
+## Einleitung Raubfliegen
+
+Raubfliegen? Nie gehört? Kaum jemand beachtet sie, obwohl sie äusserst spannend und attraktiv sind. Wie der Name bereits sagt, handelt es sich um räuberische Fliegen. Von einem Ansitz aus jagen sie andere Insekten und saugen diese nach einem erfolgreichen Fang aus. In Ces konnten 4 Arten zum ersten Mal im Kanton Tessin nachgewiesen werden. Etwa die Hälfte der 14 vorkommenden Arten entwickelt sich als räuberische Larve im Totholz.
+
+### Rotbeinige Mordfliege (*Choerades rufipes*)
+
+![Jonas Landolt](/images/20240816_20240816_20240816_DSC_9452_JonasLandolt_JonasLandolt-2_JonasLandolt.jpg)
+
+
+Der Name mag furchteinflössend klingen. Uns Menschen macht diese Raubfliege aber nichts, sie ernährt sich von Insekten. Die Larve lebt räuberisch im Totholz. Es handelt sich um den erst 10. Nachweis der Art in der Schweiz und um den 1. Im Kanton Tessin.
+
+Alle Fotos entstanden in Ces!
+
+
+::::
+
+
+::::{.content-visible when-profile="technisch"}
+
+## Methodik
+
+Die Faunakartierungen fanden am 10. & 11. Mai, 16. Juni, 12. & 13. Juli, sowie 16. & 17. August statt. Die Begehungen wurden an möglichst wettersicheren Tagen mit sonnigem Wetter (über 15 °C) und windarmen Verhältnissen zwischen 9 und 18 Uhr durchgeführt. Bei allen Kartierungen wurde möglichst das ganze Offenland um Ces, sowie die lichten Wälder abgelaufen. Ein Fokus bestand auf den für die Artengruppen spannenden Flächen, um eine möglichst vollständige Artenliste zu erhalten. Heuschrecken wurden optisch und akustisch kartiert. Die Libellen wurden optisch erfasst und einzelne Individuen wurden zur sicheren Bestimmung gefangen. Die Tagfalter wurden mit einem Fernglas bestimmt oder falls nötig mit dem Handkescher gefangen und bestimmt. Alle Kartierungen erfolgten mittels GPS und die Arten wurden punktgenau erfasst. Teilweise wurden mehrere Individuen der gleichen Art unter einem Punkt erfasst, wenn sie nahe beisammen waren. Dank der punktgenauen Kartierung können die Arten den Lebensräumen zugewiesen werden. Eine quantitative Auswertung der Daten ist allerdings nicht möglich.
+
+Neben der vollständigen Kartierung der drei genannten Artengruppen wurden opportunistisch auch die Raubfliegen (*Asilidae*), die Wollschweber (*Bombyliidae*) und einzelne Käfer (*Coleoptera*) erfasst.
+
+Es kann davon ausgegangen werden, dass ein für CES repräsentatives Artenset erfasst wurde. Auf Grund der Grösse des Gebiets, ist aber nicht auszuschliessen, dass einzelne, seltene Arten nicht gefunden wurden. Erschwerend kamen die teilweise nicht idealen Witterungsverhältnisse hinzu, da beispielsweise viele Tagfalterarten bereits durch ein Abdecken der Sonne durch eine Wolke das Fliegen einstellen. Mit 4 Begehungen wurde ein guter Kompromiss zwischen Aufwand und Artenertrag gefunden. Es gilt jedoch zu beachten, dass beispielsweise im Rahmen des Biodiversitätsmonitorings der Tagfalter auf dieser Höhenstufe 7 Begehungen gemacht wurden (BDM, 2020). Insofern lohnt es sich in den kommenden Jahren auf die Taxa zu achten und die Artenlisten gegebenenfalls zu ergänzen. Ergänzende Beobachtungen sollten infofauna, dem Schweizer Datenzentrum für Fauna-Nachweise, gemeldet werden.
+
+## Ergebnisse
+
+Insgesamt wurden knapp 1500 Individuen in über 700 Beobachtungen erfasst, wobei die Tagfalter mit 375 Beobachtungen, gefolgt von den Heuschrecken mit 250 Meldungen und den Libellen mit 19 Meldungen, die häufigsten Artengruppen waren. Diese Daten entsprechen nicht den effektiven Individuenzahlen, geben aber einen Eindruck des faunistischen Geschehens.
+
+### Heuschrecken
+
+Es konnten 20 verschiedene Heuschreckenarten festgestellt werden. Es handelt sich dabei einerseits um Arten die in der gesamten Schweiz vorkommen, wie beispielsweise der Wiesengrashüpfer *Chorthippus dorsatus,* der Braune Grashüpfer *C. brunneus* und das Grüne Heupferd *Tettigonia viridissima,* andererseits um typische Arten der Südschweiz die Südalpen-Säbelschrecke *Barbitistes obtusus,* der Südliche Grashüpfer *Chorthippus eisentrauti,* die Tessiner Gebirgsschrecke *Miramella formosanta* und die Graue Beissschrecke *Platycleis (albopunctata) grisea.\
+*Vier Arten (Atlantische Bergschrecke *Antaxius pedestris,* Warzenbeisser *Decticus verrucivorus,* Rotleibiger Grashüfper *Omocestus haemorrhoidalis,* Zweipunkt-Dornschrecke *Tetrix bipunctata*) werden auf der Roten Liste als «potenziell gefährdet» NT und die Rotflüglige Ödlandschrecke (*Oedipoda germanica*) wird als «verletzlich» VU eingestuft (Monnerat et al. 2007). Sowohl der Rotleibige Grashüpfer und die Zweipunkt-Dornschrecke, also auch die Rotflüglige Ödlandschrecke konnte nur in der felsigen Kuppe «In Presú» nachgewiesen werden. Nicht nachgewiesen werden konnte die Blauflüglige Ödlandschrecke (*Oedipoda caerulescens*), von der es dort ebenfalls Sichtbeobachtungen geben soll.
+
+Die Feldgrille (*Gryllus campestris*) und die Waldgrille (*Nemobius sylvestris*) wurden auf den Flächen um Ces nicht nachgewiesen, sind aber im Abstieg nach Chironico bereits nach dem ersten Wald zu finden. Offenbar war der Fichtenwald und das Bachtobel dazwischen bisher eine unüberwindbare Barriere für diese zwei Arten.
+
+### Libellen
+
+Es konnten 6 Libellenarten nachgewiesen, wovon 5 Arten vermutlich reproduzieren. Bei der Frühen Heidelibelle (*Sympetrum fonscolombii*) kann man davon ausgehen, dass sie eher zugeflogen ist. Die Libellen befanden sich vor allem an den zwei aufgestauten Teichen. Keine der Arten steht auf der Roten Liste (Monnerat et al. 2021).
+
+### Tagfalter
+
+Auf den Grünflächen in und um Ces konnten 45 Tagfalter-Arten und 3 Widderchen festgestellt werden. 6 Arten (Alpen-Grünwidderchen *Adscita alpina*, Braunfleckiger Perlmuttfalter *Boloria selene*, Rundaugen-Mohrenfalter *Erebia medusa*, Dukatenfalter *Lycaena virgaureae*, Argus-Bläuling *Plebejus argus* & Thymian-Widderchen *Zygaena purpuralis*) werden auf der Roten Liste als «potenziell gefährdet» NT, 2 Arten (Trauermantel *Nymphalis antiopa*, Südliches Platterbsen-Widderchen *Zygaena romeo*) als «verletzlich» VU und eine Art, den Grossen Waldportier *Hipparchia fagi* als «stark gefährdet» EN eingestuft (Wermeille et al. 2014). Der Trauermantel legt seine Eier in Gelegen an Weiden (*Salix sp.)* und Birken (*Betula sp.)* vorzugsweise über Gewässern oder an anderen luftfeuchten Standorten. Die Raupen des Südlichen Platterbsten-Widderchens fressen wie der Name vermuten lässt an Platterbsen *(Lathyrus sp*.) und Wicke (*Vicia sp*.). Der Grosse Waldportier kommt in der Schweiz nur im Tessin und vereinzelt im Jura vor. Er besiedelt strukturreiche Habitate mit Büschen, Einzelbäumen und steinigen Böschungen. Die Raupen fressen an Gräsern (*Poaceae*).
+
+### Raubfliegen
+
+Es konnten 13 verschiedene Raubfliegen-Arten festgestellt werden. Da für die Raubfliegen keine Rote Liste existiert, kann ihr Gefährdungsgrad nicht eingestuft werden. Allerdings sind einige sehr spannende Nachweise dabei. Von 4 Arten Alpen-Mordfliege *Andrenosoma albilabre*, Karminrote Mordfliege *Choerades gilva*, Rotbeinige Mordfliege *Choerades rufipes* und Feder-Makelfliege *Cyrtopogon flavimanus*) gelang ein 1. Nachweis für den Kanton Tessin. Mehrere Arten sind nur mit einer handvoll Beobachtungen aus den letzten 25 Jahren in der Schweiz nachgewiesen. Die Raubfliegen sind in der Schweiz sicherlich massiv unterkartiert. Allerdings zeugt die hohe Artenvielfalt insbesondere bei Totholzsiedlern auch die Qualität der Lebensräume in Ces. Bei der Hälfte der nachgewiesenen Arten entwickeln sich die ebenfalls räuberisch lebenden Larven im Totholz.
+
+## Vorschläge Fördermassnahmen
+
+Der Artenreichtum der Heuschrecken, Libellen und Tagfalter in Ces beruht insbesondere auf der Vielseitigkeit der Lebensräume und ihrer Nutzungsdiversität. Diese Vielfalt gilt es unbedingt zu erhalten. Von mehrjährigen zu einjährigen Verbrachungsstadien, über Pferde- und Rinderweiden bis zu ein- und zweischürigen Wiesen. Je diverses desto besser. Insbesondere interessant und förderlich ist, wenn auch Übergangsbereiche zum Wald genutzt, insbesondere beweidet werden.
+
+### Heuschrecken
+
+Der für Heuschrecken und insbesondere die seltenen und gefährdeten Arten wertvollste Bereich ist die felsige Kuppe «In Presú». Dort wurde vor zwei Jahren ausgeholzt, wodurch sich die Situation für Heuschrecken bereits verbessern sollte, da mehr Licht und Wärme auf die Flächen gelangt. Insbesondere ein Zuwachsen der felsigen Partien sollte verhindert werden und weiteres Freistellen von Felskuppen wäre für die spezialisierten Arten förderlich. Ein weiteres Aufkommen des Adlerfarns muss verhindert werden. Auch andernorts sollten felsige, steinige und magere Kuppen auf jeden Fall erhalten bleiben.
+
+### Libellen
+
+Das Aufstauen der zwei Bäche hat für die Libellen sicherlich eine fördernde Wirkung, da alle nachgewiesenen Arten vor allem in Stehgewässern reproduzieren. Weitere Massnahmen sind nicht notwendig.
+
+### Tagfalter
+
+Für die Tagfalter sind keine zusätzlichen Massnahmen notwendig. Wichtig ist die oben genannte Vielfältigkeit der Lebensräume und Bewirtschaftung. Insbesondere gilt es Kleinstrukturen wie magere Kuppen, kleine Abhänge etc., die mikroklimatische Unterschiede bringen, zu erhalten.
+
+### Raubfliegen
+
+Erhalt der Totholzstrukturen und periodische Neuschaffung von Totholz.
+
+## Quellen
+
+Biodiversitäts-Monitoring Schweiz, 2020: Anleitung für die Feldarbeit zum Indikator «Z7-Tagfalter». Bern, Bundesamt für Umwelt.
+
+Monnerat C., Thorens P., Walter T., Gonseth Y. 2007: Rote Liste der Heuschrecken der Schweiz. Bundesamt für Umwelt, Bern, und Schweizer Zentrum für die Kartographie der Fauna, Neuenburg. Umwelt-Vollzug 0719: 62 S.
+
+Monnerat C., Wildermuth H., Gonseth Y. 2021: Rote Liste der Libellen. Gefährdete Arten der Schweiz. Umwelt-Vollzug Nr. 2120: 70 S.
+
+Wermeille E., Chittaro Y., Gonseth Y. 2014: Rote Liste Tagfalter und Widderchen. Gefährdete Arten der Schweiz, Stand 2012. Bundesamt für Umwelt, Bern, und Schweizer Zentrum für die Kartografie der Fauna, Neuenburg. Umwelt-Vollzug Nr. 1403: 97 S.
+
+
+## Fundmeldungen
+
+```{r}
+#| echo: false
+
+layer <- "Heuschrecken_Libellen_Tagfalter"
+
+```
+
+```{r}
+#| child: make-map.qmd
+#| echo: false
+#| column: page
+#| warning: false
+#| fig-height: 10
+```
+
+
+## Anhang
+
+Datenliste mit allen Nachweisen: 20241129_Daten_Fauna_CES_JonasLandolt.xlsx
+
+Gesamtartenliste: 20242911_Gesamtartenliste_Ces_JonasLandolt.xlsx
+
+
+::::

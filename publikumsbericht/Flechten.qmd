@@ -1,0 +1,70 @@
+---
+title: Flechten
+author: 
+  - name: Markus Gabathuler
+    email: mgabathuler@protonmail.com
+    affiliations: 
+      - name: Regensdorferstrasse 10, 8155 Niederhasli
+# date: 2024-11-15
+---
+
+## Einleitung Flechten
+
+Flechten sind Doppelorganismen, welche aus mindestens einem Pilzpartner (Mykobiont) und einem Algenpartner (Photobiont) bestehen. Während der Pilz das Gehäuse der Flechte ausbildet und den Algenzellen Schutz vor Fressfeinden bietet, produzieren diese durch Photosynthese Zucker, welche dem Pilz als Nahrung dient. Bei vollständiger Austrocknung verfallen Flechten in einen vorübergehend leblosen Zustand, bis sie wieder durch Niederschlag oder hohe Luftfeuchtigkeit befeuchtet werden. Grundsätzlich sind Flechten sehr konkurrenzschwach, vor allem gegenüber Gefässpflanzen, doch als wechselfeuchte Organismen, können sie Extremstandorte besiedeln (z.B. blankes Gestein). Von den schweizweit ca. 2000 bekannten Arten, konnten in der Umgebung von Ces bisher 111 Arten registriert werden.
+
+## Zierliche Gelbflechte (*Xanthoria elegans*)
+
+![](/images/Xanthoria_elegans_Mermilliod.JPG)
+
+![(Jean-Claude Mermilliod, Markus Gabathuler)](/images/Ces_Hausfassade_Gabathuler.jpg)
+
+Die orange Färbung der Hausfassade stammt von der Flechte *Xanthoria elegans* (Link) Th. Fr., welche oft auf Silikatgestein zu finden ist.
+
+
+
+
+## Trompetenflechte (*Cladonia fimbriata*)
+
+![Markus Gabathuler](/images/Cladonia_fimbriata_Gabathuler.jpg)
+
+
+*Cladonia fimbriata* (L.) Fr. kann am nördlichen Dorfeingang auf den Steinen der Trockensteinmauer gefunden werden. Es handelt sich um eine weit verbreitete Flechtenart, welche auf Bäumen wie auch auf Moos-überwachsenen Steinen vorkommt.
+
+
+## Rostfarbenen Stecknadelflechte (*Chaenotheca ferruginea*)
+
+![Markus Gabathuler](/images/Chaenotheca_ferruginea_Gabathuler.jpg)
+
+
+In den Fichtenwaldbeständen konnten diverse Vorkommen von Stecknadelflechten registriert werden. Unter anderem auch zwei Funde der Rostfarbenen Stecknadelflechte (*Chaenotheca ferruginea* (Sm.) Mig.)
+
+
+## Fundmeldungen
+
+```{r}
+#| echo: false
+
+layer <- "Flechten"
+
+```
+
+```{r}
+#| child: make-map.qmd
+#| echo: false
+#| column: page-inset
+#| warning: false
+#| fig-height: 8
+```
+
+
+
+## Artenliste
+
+
+```{r}
+#| child: make_artenliste.qmd
+#| echo: false
+#| warning: false
+#| fig-height: 1
+```
+

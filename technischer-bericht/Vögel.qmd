@@ -1,0 +1,54 @@
+---
+title: Vögel
+author:
+  - name: Hansruedi Schudel
+    email: h.schudel@naturschutzbuero.ch
+    phone: 079 710 15 51
+    affiliations:
+      - name: Naturschutz und Artenförderung GmbH, Hallwylstrasse 29, 8004 Zürich
+  - name: Rogenmoser Christian
+---
+
+
+Autor:In          | Kontakt
+------------------|------------------------------------------
+Hansruedi Schudel       | Naturschutz und Artenförderung GmbH, Hallwylstrasse 29, 8004 Zürich
+Rogenmoser Christian    |
+
+: {tbl-colwidths="[50,50]"}
+
+
+## Methodik
+
+Die Aufnahmen der Brutvögel im Projektperimeter erfolgten am 29.Mai 2024 (H. Schudel) und vom 11.-14. Juli 2024 (Ch. Rogenmoser) mittels Transsekt im gesamten Projektperimeter.
+
+H. Schudel hat während 4.5 Stunden (4.45h -- 9.15h) den Projektperimeter abgesucht und die Anzahl Sänger je Art verortet. Ch. Rogenmoser hat zwischen dem 11. -- 1.7. mittels Stichproben das Projektgebiet kartiert und sowohl Sichtbeobachtungen als auch rufende Individuen inventarisiert.
+
+Obwohl nur an wenigen Tagen bzw. wenige Stunden inventarisiert wurde, gehe ich davon aus, dass wir einen Grossteil der im 2024 ansässigen Brutvogelarten gefunden haben. Die Bestandsgrössen wurden nur teilweise erfasst.
+
+## Ergebnisse
+
+Besonders erfreulich waren die 3 singenden Baumpieper. Ebenfalls bemerkenswert ist die Brut des Gartenrotschwanzes am Dorfrand -- nicht bekannt ist ob bzw. wie viele Jungvögel ausgeflogen sind. Vom Kuckuck konnten 1-2 Sänger festgestellt werden. Eine weitere seltene Art -- der Wespenbussard hat vermutlich auch im bzw. im näheren Umfeld des Projektperimeters gebrütet; wir nehmen an, dass die Art von den Aufwertungsmassnahmen profitiert bzw. profitieren wird.
+
+Erstaunlich ist m.E. auch die Dichte bzw. Anzahl der rufenden Gimpel(paare): 4-5
+
+Die Listen der gefundenen Arten finden sich im Anhang.
+
+Sämtliche Bereiche, in denen im Rahmen des LSA-Projektes Massnahmen durchgeführt wurden, finden sich in Abbildung 1 (orange gestrichelt) -- die vorkommenden Vogelarten wurden ebenfalls darin verortet (Abkürzungen).
+
+## Vorschläge Fördermassnahmen
+
+Für folgende Arten muss das Blütenangebot weiter verbessert werden, weil dadurch wahrscheinlich die Insektendichte erhöht wird: Kuckuck, Baumpieper, Gartenrotschwanz sowie indirekt auch für den Wespenbussard.
+
+Zugleich profitieren weitere Artengruppen wie Wildbienen, Schmetterlinge, Spinnentiere und Reptilien von den in den vergangenen vier Jahren umgesetzten Massnahmen:
+
+Die Förderung der Blütenpflanzen wurde bzw. wird im Rahmen des LSA-Projektes u.a. durch Handsammlung und gezieltes Ausbringen an geeigneten Orten umgesetzt.
+
+## Anhang
+
+- Anhang_Bericht Inventar Vögel Ces.docx\
+- Zonen mit Aufwertungsmassnahmen (Landschaftsaufwertungsprojekt)
+- Inventar Vögel Ces 2024/5/29
+- Vogelliste Ces TI 2024/7/14
+
+

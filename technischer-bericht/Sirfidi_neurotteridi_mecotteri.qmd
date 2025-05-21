@@ -1,0 +1,65 @@
+---
+title: Sirfidi neurotteridi mecotteri
+author:
+  - name: Bärbel Koch
+    email: baerbel.koch@hotmail.com
+    phone: ; +41 (0) 78 910 99 47
+# 30.11.2024
+---
+
+
+Autor:In          | Kontakt
+------------------|------------------------------------------
+Bärbel Koch       | 
+
+
+: {tbl-colwidths="[50,50]"}
+
+
+
+## Metodo
+
+Nel corso dell\'estate 2024, sono stati campionati i seguenti gruppi faunistici: ordine Diptera - famiglia Syrphidae; superordine Neuropterida - ordini Neuroptera, Megaloptera, Raphidioptera; ordine Mecoptera.
+
+Per la ricerca dei gruppi campionati è stato in particolare usato il metodo della caccia a vista con retino entomologico. Per i Neuropterida è stata usata anche la tecnica del frappage, che consiste nel battere i rami di alberi e arbusti per fare cadere gli insetti che vi sono posati. I rilievi sono stati eseguiti nel corso di tre giornate sparse nel corso dell\'estate 2024, nel periodo di massima attività dei gruppi ricercati: 10 maggio, 15 luglio e 17 agosto. Poiché diverse specie di Neuropterida sono attive al crepuscolo o di notte, il 17 luglio è stata anche posata una trappola luminosa per cercare di campionare ulteriori specie di questo gruppo (Allegato 4). Durante i campionamenti si è cercato di visitare tutte le tipologie di ambienti presenti nel perimetro del progetto, in particolare superfici prative, zone più umide attorno ai corsi d\'acqua e margini boschivi. Le specie determinabili a vista sono state rilasciate, quelle invece che necessitavano di un\'identificazione al binoculare sono state catturate, etichettate con la località di ritrovamento e preparate a secco. Le specie raccolte sono state in seguito identificate al binoculare. I dati dettagliati saranno consegnati a info fauna, determinati individui di specie particolari saranno depositati al Museo cantonale di storia naturale (MCSN) di Lugano.
+
+Poiché le specie presenti possono variare significativamente da un anno all\'altro, per garantire una base di dati solida e affidabile per un monitoraggio, sarebbe necessario effettuare ulteriori rilievi nei prossimi anni. In alternativa, si potrebbero adottare metodi più standardizzati, sebbene decisamente più onerosi, come ad esempio l\'uso di trappole Malaise.
+
+## Risultati
+
+In totale sono state campionate 50 specie di ditteri sirfidi, 4 specie di neurotteridi (incl. 1 specie di Raphidioptera) e 2 specie di mecotteri. Una specie aggiuntiva di mecottero, forse *Panorpa* *germanica*, è stata vista, ma non ha potuto essere catturata e quindi identificata con sicurezza.
+
+I sirfidi, neurotteridi e mecotteri, sono gruppi di insetti molto poco studiati, la base di dati in Svizzera è estremamente carente. Per una valutazione della minaccia delle specie di questi gruppi non esiste una Lista Rossa svizzera (sirfidi, mecotteri), oppure è obsoleta perché non più aggiornata da molto tempo (neurotteridi). Anche le carte di distribuzione pubblicate da info fauna non possono essere prese in considerazione, poiché mancano vari dati e la distribuzione è verosimilmente sottostimata. Nonostante ciò, questo significa che qualsiasi dato raccolto per questi gruppi è molto importante, perché va a colmare delle lacune, in particolare nel caso di Ces, dove probabilmente non erano mai stati fatti rilievi riguardanti sirfidi, neurotteridi e mecotteri. Questi gruppi erano già stati campionati nel 2020 a Doro, dove erano state trovate in parte le medesime specie.
+
+Particolarmente interessanti sono le due specie di *Sericomyia*, che sono specie legate a zone umide in combinazione con foreste, *Orthonevra nobilis*, una specie tipica di acque e piccoli corsi d\'acqua al di sopra dei 1000 m di altitudine, così come varie specie di *Cheilosia* sp. finora poco campionate, ma la cui determinazione deve ancora essere confermata da altri esperti svizzeri o perfino europei, vista la loro estrema diversità come anche difficoltà nell\'identificazione.
+
+Per quanto riguarda i dati dei Neuropterida e Mecoptera, non ci sono da segnalare specie particolari inaspettate, ad eccezione di *Puncha ratzeburgi*, una specie di Raphidioptera che è legata ai boschi di conifere. Per questa specie si tratta del secondo dato per il Cantone Ticino.
+
+## Proposte di misure di gestione
+
+### Ditteri sirfidi
+
+Il legame specifico delle specie di ditteri con strutture dell\'ambiente permettono di derivare delle proposte di misure di gestione grazie alle esigenze a livello di nicchie ecologiche delle larve.
+
+Molte delle specie osservate si sviluppano nei boschi di conifere attorno a Ces e nei boschi di latifoglie che si trovano più in basso verso il fondovalle. Varie di queste specie dipendono da strutture del bosco come legno morto o nicchie di alberi stramaturi e senescenti (cavità, carie, fuoriuscita di linfa). Se possibile, dovrebbero quindi essere conservate queste strutture nei boschi nei dintorni di Ces.
+
+Un altro gruppo di specie, alcune delle quali anche rare (ad es. *Orthonevra nobilis*, *Sericomyia* sp.) dipende in maniera particolare da prati più umidi, corsi d\'acqua e pozze stagnanti. Questi ambienti dovrebbero quindi essere conservati e gestiti in maniera non troppo intensiva e a mosaico; le pozze appena create sono sicuramente un ambiente molto prezioso per favorire determinate specie di sirfidi.
+
+I sirfidi allo stadio adulto sono nettarivori e pollinivori, e indipendentemente dal luogo di sviluppo delle larve, dipendono quindi da spazi prativi ricchi di fiori. Poiché alcune specie sono più specifiche di altre nei fiori che visitano, più la diversità floristica sarà ampia e più specie potranno approfittarne. I prati più fioriti sono quindi da conservare e gestire in maniera estensiva di modo da mantenete la diversità di fiori presente. Un grande numero di individui, soprattutto dei generi *Eristalis* e *Cheilosia*, sono stati osservati negli orti recintati di Ces dove sono coltivate anche molte piante da fiore, di ribes e grano saraceno. Questi orti sono ottime fonti di cibo per i sirfidi e andrebbero mantenuti. Alcune specie dipendono dalla presenza di animali al pascolo, una gestione estensiva con animali è quindi favorevole.
+
+### Neuropterida e Mecoptera
+
+I neurotteridi e i mecotteri mostrano un legame meno stretto con specifiche microstrutture dell\'habitat rispetto ai sirfidi, ma dipendono da una varietà di strutture ambientali per trovare rifugi, cibo e condizioni ideali per il loro sviluppo. Poiché le specie di entrambi i gruppi sono perlopiù predatrici, un habitat variato che promuove altri insetti è sicuramente positivo.
+
+I mecotteri prediligono in particolare zone umide e ombrose, andrebbero quindi mantenuti e creati margini boschivi strutturati e con erbe alte, in particolare in zone più umide o lungo i corsi d\'acqua.
+
+
+
+## Allegati
+
+1. Tabella Excel con i dati temporanei che saranno consegnati a info fauna (attenzione: non ancora definitivi perché alcune specie devono essere controllati da esperti perché problematiche).
+2. Durante i rilievi a Ces il 10 maggio 2024.
+3. Durante i rilievi a Ces il 17 agosto 2024.
+4. Trappolaggio luminoso a Ces il 17 agosto 2024.
+
+

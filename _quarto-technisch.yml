@@ -1,0 +1,28 @@
+book:
+  output-file: "Ces_Bericht_technisch"
+  subtitle: "Technischer Bericht"
+  chapters:
+    - index.qmd
+    - technischer-bericht/Flechten.qmd
+    - technischer-bericht/Moose.qmd
+    - technischer-bericht/Gefässpflanzen.qmd
+    - technischer-bericht/Mollusken.qmd
+    - technischer-bericht/Sirfidi_neurotteridi_mecotteri.qmd
+    - technischer-bericht/Heuschrecken_Libellen_Tagfalter.qmd
+    - technischer-bericht/Wildbienen.qmd
+    - technischer-bericht/Amphibien_Reptilien.qmd
+    - technischer-bericht/Vögel.qmd
+    - technischer-bericht/Kleinsaeuger.qmd
+    - technischer-bericht/Fledermäuse.qmd
+    - technischer-bericht/Waldentwicklung.qmd
+project:
+  output-dir: _output-technisch
+
+format: 
+  pdf: 
+    number-depth: 1
+    toc-depth: 2
+    mainfont: DejaVu Sans
+    margin-right: 2cm
+    margin-left: 2cm
+

@@ -1,0 +1,89 @@
+---
+title: Moose
+author:
+  - name: Markus K. Meier
+    email: mkmeier@flora-fauna.ch
+    phone: 079 710 15 51
+    affiliations:
+      - name: flora+fauna consult, Hardturmstrasse 269, CH-8005 Zürich 
+# 10.12.2024
+---
+
+
+## Einleitung Moose
+
+Moose sind die ursprünglichste Gruppe der Landpflanzen und existieren schon seit über 400 Millionen Jahren. In Ces und der näheren Umgebung gibt es mindestens 213 Arten, 45 gehören zur Klasse der Lebermoose und 168 zu den Laubmoosen, in der Schweiz sind es über 1150 Arten. Die hohe Moosvielfalt in Ces ist nicht zuletzt den Mooren zu verdanken, aber auch auf den meist kalkarmen Felsen und in den Bächen und Wäldern sind die charakteristischen Moos-Gemeinschaften gut ausgebildet, je nach Besonnung und Feuchtigkeit unterscheiden sie sich deutlich.
+
+## Torfmoose
+
+
+![Markus Meier](/images/Sphagnum_spp_Ces_MM_Md1280.jpg)
+
+
+
+Torfmoose (Gattung *Sphagnum*) sind wichtige Bestandteile von Mooren und damit weltweit eine bedeutende CO~2~-Senke. In Ces sind sie in vielen Farben und Formen anzutreffen - auch in Wäldern und auf Felsen, so dass man sie bestaunen kann, ohne die empfindlichen Moorböden zu betreten.
+Im Bild: *Sphagnum angustifolium* mit Sporophyten, *Sphagnum* cf. *quinquefarium*, *Sphagnum subsubsecundum*, *Sphagnum squarrosum*, *Sphagnum* cf. *russowii* und Sonnentau, *Sphagnum papillosum* und *Sphagnum* cf. *rubellum*
+
+
+## Epiphyten
+
+![Markus Meier](/images/1107939 Lewinskya speciosa striata.jpeg)
+
+
+Aufsitzerpflanzen (Epiphyten) kommen nicht nur in tropischen Regenwäldern vor. Auch bei uns sind sie allgegenwärtig. In den Hecken und Kleingehölzen und auf Baumstämmen am Waldrand um Ces wachsen über 40 Moosarten, darunter auch Rogers Goldhaarmoos *Orthotrichum rogeri*, eine europweit geschützte Smaragdart (im Bild hier besonders üppig die Goldhaarmoose *Lewinskya striata* und *Lewinskya striata* auf einer Esche bei Frec). Im Gegensatz zu parasitischen Blütenpflanzen wie der Mistel entziehen Moose ihrem Trägerbaum keine Substanzen und schaden ihm nicht.
+
+## Granit
+
+![Markus Meier](/images/Felsmoose_Ces_MM.jpg)
+
+
+Mehrere Zentimeter dicke Moospolster sind auf den Felsen rund um Ces keine seltene Erscheinung -- sie scheinen oft dutzende wenn nicht hunderte von Jahren alt zu sein. Unter Felsüberhängen wächst zum Beispiel das Grosse Kluftmoos *Amphidium mougeotii*, auf sonnigen Felsen die schwärzliche *Grimmia alpestris*, im Halbschatten *Dicranum scoparium* (hier mit Sporophyten), auf überrieselten Felsen *Bryum mildeanum* -- nebst unzähligen anderen Arten.
+
+## Trockenschlaf
+
+![Markus Meier](/images/Syntrichia_Ces_MM.jpg)
+
+
+Das Land-Schraubenmoos, *Syntrichia ruralis*, besiedelt viele Mauern und Ruinen im Dorfkern, wo es dicke Polster bildet. Bei Trockenheit wirken diese silbergrau wie das Gestein auf dem sie wachsen, nach Regen oder im Nebel sind sie kaum mehr zu erkennen. Erst jetzt kommt die grüne Farbe zur Geltung, der vorher völlig eingestellte Stoffwechsel kommt wieder in Fahrt, die eingerollten Blättchen breiten sich aus.
+
+## Gebirgsbach
+
+![Markus Meier](/images/FBloc2669 Ri.jpeg)
+
+
+In den mal reissend schnellen, mal sanft plätschernden Bächen um Ces wächst die typische Flora von kalkarmen Gebirgsbächen. Auch die ständig feuchten und oft beschatteten Ufer bilden einen idealen Lebensraum für eine grosse Zahl unterschiedlichster Moosarten. Es lohnt sich also bei der Dusche unter dem Wasserfall oder dem Bad in einem Felsbecken auch mal die Felsen genauer anzuschauen!
+
+## Nordisches Prachtmoos
+
+![Markus Meier](/images/FBloc2714 Lempence.jpeg)
+
+
+Im hinteren Weiher bei Lempence lebt das Nordische Prachtmoos, *Calliergon richardsonii*, eine Rarität die in der Schweiz nicht von vielen Fundorten bekannt ist, im Tessin sonst nur noch vom Bleniotal. Das Moos ist sich eine amphibische Lebensweise gewöhnt, es lebt oft untergetaucht, erträgt aber auch das periodische Austrocknen des Tümpels offenbar gut.
+
+
+## Fundmeldungen
+
+```{r}
+#| echo: false
+
+layer <- "Moose"
+
+```
+
+```{r}
+#| child: make-map.qmd
+#| echo: false
+#| column: page-inset
+#| warning: false
+#| fig-height: 8
+```
+
+## Artenliste
+
+
+```{r}
+#| child: make_artenliste.qmd
+#| echo: false
+#| warning: false
+#| fig-height: 1
+```

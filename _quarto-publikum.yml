@@ -1,0 +1,28 @@
+book:
+  output-file: "Ces_Bericht_publikum"
+  subtitle: "Publikumsbericht"
+  reader-mode: true
+  chapters:
+    - index.qmd
+    - publikumsbericht/Flechten.qmd
+    - publikumsbericht/Moose.qmd
+    - publikumsbericht/Gefässpflanzen.qmd
+    - publikumsbericht/Mollusken.qmd
+    - publikumsbericht/Sirfidi_neurotteridi_mecotteri.qmd
+    - publikumsbericht/Heuschrecken_Libellen_Tagfalter.qmd
+    - publikumsbericht/Wildbienen.qmd
+    - publikumsbericht/Amphibien_Reptilien.qmd
+    - publikumsbericht/Vögel.qmd
+    - publikumsbericht/Kleinsaeuger.qmd
+    - publikumsbericht/Fledermäuse.qmd
+    - publikumsbericht/Waldentwicklung.qmd
+project:
+  output-dir: _output-publikum
+
+format:
+  html:
+    theme: cosmo
+    number-depth: 3
+    css: style.css
+    
+    

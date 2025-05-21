@@ -1,0 +1,75 @@
+---
+title: Gefässpflanzen
+author:
+  - name: Daniel Hepenstrick
+    role:  Autor Bericht
+    email: daniel.hepenstrick@gmx.net
+    phone: 079 751 86 81 
+    affiliations:
+      - name: Botanikon, Schreinerstrasse 52, 8004 Zürich
+  - name: Simon Gysi (Mitarbeit im Feld)
+    role: Mitarbeit im Feld
+  - name: Philipp und Trudi Bachmann (Floradaten 2020)
+    role: Floradaten 2020
+---
+
+
+## Einleitung Gefässpflanzen
+
+Über 418 Gefässpflanzenarten -- Blumen, Kräuter, Gräser, Bäume, Sträucher und Farne -- wachsen in Ces. Besonders artenreich sind die Magerwiesen, und viele seltene Arten wachsen in den Mooren. Die grösste Blütenpracht kann man im Juni erleben. Der Grund für diese farbige Artenvielfalt sind die Menschen, welche seit vielen Generationen in Ces Landwirtschaft betreiben und die Landschaft offenhalten. Ohne sie wäre die Ebene von Ces ein eintöniger Fichtenwald.
+
+## Roter Holunder
+
+![Françoise Alsaker](/images/Roter_Holunder_Françoise_Alsaker.jpg)
+
+
+Der Rote Holunder wächst bevorzugt zwischen Steinen. So ist es kein Zufall, dass im Dorfkern von Ces über 20 Exemplare dieses Strauchs auf Trockensteinmauern, Ruinen und Steinhaufen ihr Zuhause gefunden haben. Aus den Früchten kann man Gelee herstellen.
+
+## Paradieslilie
+
+![Daniel Hepenstrick](/images/Paradieslilie_Daniel_Hepenstrick.jpg)
+
+
+Im Juni blüht die Paradieslilie in den Magerwiesen.
+
+## Sonnentau
+
+![Daniel Hepenstrick](/images/Sonnentau_Daniel_Hepenstrick.jpg)
+
+
+Mit etwas Glück entdeckt man auf den Fusswegen in den Mooren von Verengo den winzigen Rundblättrigen Sonnentau. Mit seinen klebrigen Tentakeln fängt und verdaut er kleine Insekten. So kann er im nährstoffarmen Hochmoor überleben.
+
+## Felsenprimel
+
+![Daniel Hepenstrick](/images/Rote_Felsenprimel_Daniel_Hepenstrick.jpg)
+
+
+Ende April sind die Felsen beim Wasserfall mit der Roten Felsenprimel dekoriert.
+
+
+
+## Fundmeldungen
+
+```{r}
+#| echo: false
+
+layer <- "Flora_Vegetation"
+
+```
+
+```{r}
+#| child: make-map.qmd
+#| echo: false
+#| column: page-inset
+#| warning: false
+#| fig-height: 8
+```
+
+## Artenliste
+
+```{r}
+#| child: make_artenliste.qmd
+#| echo: false
+#| warning: false
+#| fig-height: 1
+```

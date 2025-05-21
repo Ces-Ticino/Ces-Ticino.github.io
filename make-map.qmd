@@ -1,0 +1,23 @@
+
+
+```{r}
+library(sf)
+library(tmap)
+library(dplyr)
+
+tmap_mode("view")
+
+fundmeldungen <- read_sf("Fundmeldungen/Fundmeldungen.gpkg", layer) |>
+  mutate(
+    gefaehrdungsstatus = factor(gefaehrdungsstatus, levels = c("CR(PE)", "EN", "VU", "NT", "LC/NE/NA/DD"))
+  )
+
+
+cols <- c(rev(RColorBrewer::brewer.pal(4, "YlOrRd")), "grey")
+fundmeldungen |>
+  tm_shape() +   
+  tm_bubbles(fill = "gefaehrdungsstatus",fill.scale = tm_scale_categorical(values = cols))  +
+  tm_basemap("SwissFederalGeoportal.SWISSIMAGE") 
+
+```
+

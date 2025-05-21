@@ -1,0 +1,95 @@
+---
+title: Heuschrecken Libellen Tagfalter
+author:
+  - name: Jonas Landolt
+    email:  info@inatura.ch
+    phone:  079 298 49 44
+    affiliations:
+      - name: inatura.ch GmbH, Quellenstrasse 27, 8005 Zürich
+# 30.11.2024
+---
+
+
+## Einleitung Heuschrecken
+
+Im Sommer, wenn von den Vögeln nicht mehr allzu viel zu hören ist, übernehmen die Heuschrecken die Geräuschkulisse in der Natur. Die Männchen versuchen mit ihrem Gesang, dem sogenannten stridulieren, Weibchen anzulocken. In und um Ces konnten 20 verschiedene Heuschreckenarten nachgewiesen werden. Die Mehrheit davon sind Kurzfühlerschrecken, die zum Singen die Beine am Flügelrand reiben. Sieben Arten gehören zu den Langfühlerschrecken. Ihre Fühler sind länger als der Körper und die Männchen singen, indem die Flügel aneinander gerieben werden. Manchmal ist der Gesang so hoch, dass man ihn nur mit einem Ultraschalldetektor hört.
+
+
+### Rotflüglige Oedlandschrecke (*Oedipoda germanica*)
+
+![Jonas Landolt](/images/20240816_DSC_9556_JonasLandolt.jpg)
+
+
+Sie ist so gut getarnt, dass man sie erst beim Auffliegen sieht, dann aber ist sie nicht zu übersehen: Die Rotflüglige Oedlandschrecke. Ihre leuchtend roten Flügel sollen Fressfeinde wie Vögel abschrecken. Auf der Roten Liste wird die Art als verletzlich eingestuft, weil sie auf gut besonnte, offene Bodenstellen angewiesen ist, die vielerorts fehlen. In Ces kommt sie im Bereich der felsigen Kuppe «In Presú» noch vor.
+
+## Einleitung Libellen
+
+In fast allen Gewässern findet man Libellen, so auch in Ces. Die Larven leben im Wasser und ernähren sich räuberisch. Auch die ausgewachsenen Libellen sind Jäger und fressen verschiedene Kleininsekten. Man kann zwischen den schlanken Stäbchen mit beim Sitzen zusammengeschlagenen Flügeln, den Kleinlibellen und den kräftigeren Grosslibellen unterscheiden. In Ces wurden fünf Grosslibellen und eine Kleinlibelle an den aufgestauten Bächen gefunden.
+
+### Blaugrüne Mosaikjungfer (*Aeshna cyanea*)
+
+![Jonas Landolt](/images/20240714_DSC_5368_JonasLandolt.jpg)
+
+
+Die Männchen dieser Art patrouillieren im Sommer über dem Gewässer und verscheuchen andere Libellen. Währenddessen verbringen die Weibchen eine ruhige Zeit auf den Wiesen und an Waldrändern und kehren erst bei Geschlechtsreife an die Gewässer zurück.
+
+## Einleitung Tagfalter
+
+Wer mag sie nicht, die wunderbaren Schmetterlinge? Aber wer hätte gedacht, dass in und um Ces fast 50 verschiedene Arten vorkommen? Wenn man sich die Falter etwas genauer anschaut, merkt man, dass es immer wieder andere Arten sind, die herumfliegen. Diese Vielfalt ist der Nutzungsvielfalt und der vielseitigen und kleinstrukturierten Landschaft um Ces zu verdanken.
+
+### Südwestlicher Wachtelweizen-Scheckenfalter (*Melitaea caledussa*)
+
+![](/images/20240713_DSC_4643_JonasLandolt.jpg)
+
+![](/images/20240616_DSC_2579_JonasLandolt.jpg)
+
+![Jonas Landolt](/images/20240616_DSC_2573_JonasLandolt.jpg)
+
+Die Scheckenfalter haben ihren Namen von der Musterung der Flügeloberseite. Diese Art ist um Ces immer wieder anzutreffen. Ihre Raupe frisst unter anderem an Ehrenpreis (Veronica). Für viele Schmetterlinge ist der mikroklimatisch passende Standort und das Vorhandensein der Raupenfutterpflanze entscheidend.
+
+### Thymian-Widderchen (*Zygaena purpuralis*)
+
+![Jonas Landolt](/images/20240714_DSC_5460_JonasLandolt.jpg)
+
+
+Eigentlich gehören die Widderchen zu den Nachtfaltern. Das sie aber alle tagaktiv sind werden sie jeweils ebenfalls kartiert. Die Raupen dieser Art fressen an Thymian und dieser wächst bevorzugt auf den eher mageren Kuppen in der Wiese und entlang von Felsen.
+
+## Einleitung Raubfliegen
+
+Raubfliegen? Nie gehört? Kaum jemand beachtet sie, obwohl sie äusserst spannend und attraktiv sind. Wie der Name bereits sagt, handelt es sich um räuberische Fliegen. Von einem Ansitz aus jagen sie andere Insekten und saugen diese nach einem erfolgreichen Fang aus. In Ces konnten 4 Arten zum ersten Mal im Kanton Tessin nachgewiesen werden. Etwa die Hälfte der 14 vorkommenden Arten entwickelt sich als räuberische Larve im Totholz.
+
+### Rotbeinige Mordfliege (*Choerades rufipes*)
+
+![Jonas Landolt](/images/20240816_20240816_20240816_DSC_9452_JonasLandolt_JonasLandolt-2_JonasLandolt.jpg)
+
+
+Der Name mag furchteinflössend klingen. Uns Menschen macht diese Raubfliege aber nichts, sie ernährt sich von Insekten. Die Larve lebt räuberisch im Totholz. Es handelt sich um den erst 10. Nachweis der Art in der Schweiz und um den 1. Im Kanton Tessin.
+
+Alle Fotos entstanden in Ces!
+
+
+## Fundmeldungen
+
+```{r}
+#| echo: false
+
+layer <- "Heuschrecken_Libellen_Tagfalter"
+
+```
+
+```{r}
+#| child: make-map.qmd
+#| echo: false
+#| column: page-inset
+#| warning: false
+#| fig-height: 8
+```
+
+## Artenliste
+
+```{r}
+#| child: make_artenliste.qmd
+#| echo: false
+#| warning: false
+#| fig-height: 1
+```

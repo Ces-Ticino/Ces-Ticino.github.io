@@ -1,0 +1,116 @@
+---
+title: Kleinsäuger
+author: 
+  - name: Fabio Bontadina
+    email: fabio.bontadina@swild.ch
+    affiliations: 
+      - name: SWILD, Sandstrasse 2, 8003 Zürich
+  - name: Mathujah Manikkan
+---
+
+::::{.content-visible when-profile="publikum"}
+## Einleitung Kleinsäuger
+
+
+Als Kleinsäuger werden in der Schweiz rund 40 Säugetierarten bezeichnet, die ausgewachsen nicht mehr als ein Igel wiegen. Entsprechend ihrer Nahrungsgrundlage lassen sich drei Ordnungen unterscheiden: Nagetiere (*Rodentia*) wie die Waldmaus oder der Gartenschläfer, die sich von Nüssen und Samen ernähren, Insektenfresser (*Eulipotyphla*) wie die Spitzmäuse und Igel, die sich von Insekten ernähren und Raubtiere (*Carnivora*) wie das Hermelin, die andere Tiere erbeuten. Zusammen bilden sie eine vielfältige Tiergruppe mit unterschiedlichen Bedürfnissen und kommen vom Flachland bis in die Alpen vor. Eine strukturreiche Landschaft mit reichem Nahrungsangebot in unmittelbarer Nähe von ihren Verstecken sind für alle Arten von zentraler Bedeutung.
+
+![](/images/kls_2_p.jpg)
+
+
+## Gartenschläfer
+
+![Mathujah Manikkan](/images/Gartenschlaefer_Mathujah_Manikkan_SWILD.jpg)
+
+
+Charakteristisch für den Gartenschläfer (*Eliomys quercinus*) sind die schwarze Maske um die Augen, die bis hinter die Ohren reicht, und die schwarzweisse Quaste an der Schwanzspitze. Er ist ein Allesfresser, der Früchte aller Art (Nüsse, Eicheln, Beeren usw.), Samen, junge Triebe sowie zahlreiche Wirbellose, gelegentlich auch Eidechsen, Amphibien und Vögel (Eier, Jungtiere und erwachsene Tiere) frisst. Sie sind dämmerungs- und nachtaktiv und im Freiland nicht einfach zu beobachten. Bemerkbar machen sich die Tiere vor allem durch ihre Lautäusserungen, wenn sie auf dem Boden unterwegs sind oder auf Ästen rumlaufen. Gegen den Winter suchen sie vermehrt Gebäude auf und werden auch in Ställen und Holzhäusern angetroffen.
+
+Das Nest des Gartenschläfers ist meist kugelförmig und wird aus Moos, krautigen Pflanzen, Blättern und kleinen Zweigen gebaut. In Ces wurde ein Nest in der Steinmauer am nördlichen Ende der Ebene gegen die Teiche gefunden. Dort im Wald waren die Gartenschläfer auch während der Nacht unterwegs und ein säugendes Weibchen hat sich in der Lebendfalle beim angebotenen Futter bedient. In den Alpen mit strengen Wintern wie in Ces sind Gartenschläfer nur einen Teil des Jahres aktiv und halten einen Winterschlaf, der von Oktober bis April dauern kann.
+
+## Weisszahnspitzmäuse
+
+![Peter Vogel](/images/Gartenspitzmaus_Peter_Vogel_ie-zea.unil.ch.jpg)
+
+
+Im Tessin leben zwei Arten von Weisszahnspitzmäusen: die Feldspitzmaus und die Gartenspitzmaus. Beide Arten zeichnen sich durch ihr gräuliches Fell, die gut sichtbaren Ohren und die Granenhaare am Schwanzansatz aus. Sie unterscheiden sich durch die unterschiedliche Trennung von Ober- und Unterseite des Fells und durch ihre geographische Verbreitung. Eine sichere Artbestimmung erfolgt mit einem Totfund oder genetisch.
+
+Die Gartenspitzmaus kommt in der Schweiz nur im Kanton Tessin vor, während von der Feldspitzmaus bisher auch Nachweise aus Graubünden, Wallis und St. Gallen vorliegen. Beide Arten werden in der Roten Liste der Schweiz als «verletzlich» (VU) eingestuft. Eine dieser beiden Arten der Weisszahnspitzmäuse ist beim Kompost im Ti-an-Dour Garten gefunden worden.
+
+
+::::
+
+
+
+::::{.content-visible when-profile="technisch"}
+## Methodik
+
+Für den Nachweis der Kleinsäugerfauna wurden zwei verschiedene Methoden -- die Kleinsäuger-Fotofallenboxen und Lebendfallen - von Fabio Bontadina und Mathujah Manikkan eingesetzt. Die Daten sind im Anhang aufgeführt.
+
+### Kleinsäuger-Fotofallenboxen
+
+Es wurden Kleinsäuger-Fotofallenboxen im Zeitraum vom 22.08. bis 31.08.2024 (9 Tage) an zehn Standorten auf der Ebene und im Dorfkern von Ces aufgestellt. Ein besonderes Augenmerk wurde auf den Nachweis der Wasser- und Sumpfspitzmaus *Neomys fodiens* bzw. *N. milleri* (Rote Liste VU, EN) gelegt, indem drei Standorte am Wasser untersucht wurden. Der Untersuchungszeitraum ist eher kurz, die erhobenen Daten eignen sich für einen Einblick in die Artenvielfalt der Kleinsäuger.
+
+![](/images/kls_1a.jpg)
+
+
+![](/images/kls_1b.jpg)
+
+
+Ein Untersuchungsstandort im Garten von Ces. Die Kleinsäuger-Fotofallenbox wurde neben dem Komposthaufen aufgestellt.
+
+### Lebendfallen
+
+Es wurden 5 Reihen zu 10 Lebendfallen vom 29. bis 30. August 2024 während einer Nacht an fünf Standorten ausgebracht. Zwei Standorte wurden mit den Kleinsäuger-Fotofallenboxen kombiniert, drei Standorte wurden neu gewählt. 20 (der 50) Lebendfallen wurden beim Wasserfall von Ces ausgebracht, wo auch schon eine Wasserspitzmaus beobachtet wurde.
+
+## Ergebnisse
+
+Mit den Erhebungsmethoden Kleinsäuger-Fotofallenbox (FFB) und Lebendfalle (LF) erfolgten Nachweise der folgenden Arten: Weisszahnspitzmaus, entweder Feld- oder Gartenspitzmaus (*Crocidura leucodon*, bzw. *C. suaveolens*), Walliser Spitzmaus (*Sorex antinorii*), Zwergspitzmaus (*S. minutus*), Rötelmaus (*Myodes glareolus*), Gartenschläfer (*Eliomys quercinus*), Waldmaus (*Apodemus sylvaticus*) und Gelbhalsmaus (*A. flavicollis)* (siehe Artenliste im Anhang). In manchen Kantonen sind alle Spitzmäuse geschützt, jedoch nicht im Kanton Tessin.
+
+Ein besonderer Nachweis gelang mit einer Art der Gattung Weisszahnspitzmäuse (*Crocidura sp.*), bei der es sich entweder um eine Feldspitzmaus (*C. leucodon*) oder um eine Gartenspitzmaus (*C. suaveolens*) handelt. Die dritte in der Schweiz vorkommende Art dieser Gattung, die Hausspitzmaus (*C. russula*), besiedelt nur die Alpennordseite der Schweiz. Die Gartenspitzmaus kommt in der Schweiz nur im Kanton Tessin vor, während von der Feldspitzmaus bisher auch Nachweise aus Graubünden, Wallis und St. Gallen vorliegen. Beide Arten werden in der Roten Liste der Schweiz als «verletzlich» (VU) eingestuft. Eine sichere Artbestimmung erfolgt genetisch oder mit einem Totfund.
+
+Beim Lebendfang des Gartenschläfers (*Eliomys quercinus*) konnte festgestellt werden, dass das Weibchen laktierend war und somit eine Reproduktion im Gebiet stattfand. Der Gartenschläfer wurde bisher nur auf dem Weg nach Ces bis zur Höhe von Frecc (1300 m ü.M.) nachgewiesen. Keine der beiden Wasserspitzmäuse konnte nachgewiesen werden, es gibt aber eine Beobachtung von einer Spitzmaus beim Wasserfall (ca. aus dem Jahr 2010), die im Wasser gejagt hat.
+
+## Vorschläge Fördermassnahmen
+
+Kleinsäuger sind auf Kleinstrukturen als Unterschlupf und Überwinterungsplätze angewiesen. Aufgrund ihres hohen Energiebedarfs benötigen sie Nahrungsquellen in unmittelbarer Nähe ihrer Rückzugsgebiete. Folgende Fördermassnahmen unterstützen das Vorkommen von Kleinsäugern:
+
+1.  Nicht mehr als unbedingt nötig schneiden, mähen und aufräumen: Grasstreifen stehen lassen. Teile des Gartens erst im Frühjahr und nicht schon im Herbst aufräumen.
+2.  Dichten Gras- und Krautbewuchs tolerieren, besonders unter Hecken und Sträuchern. Kraut- und Grasstreifen entlang von Bächlein erhalten. Auf den Fadenmäher verzichten.
+3.  Materialhaufen aller Art als Verstecke und Nistplätze anbieten: Laub, Äste, Brennholz, Steine...
+4.  Fruchttragende Gehölze fördern, zugängliche Komposthaufen betreiben, Wasserstellen anbieten.
+5.  Todesfallen wie ebenerdige Becken oder Gruben mit Ausstieghilfe entschärfen.
+
+## Fundmeldungen
+
+```{r}
+#| echo: false
+
+layer <- "Kleinsäuger"
+
+
+```
+
+```{r}
+#| child: make-map.qmd
+#| echo: false
+#| column: page
+#| warning: false
+#| fig-height: 10
+```
+
+
+## Anhang
+
+Ces_Kleinsaeuger.xlsx mit drei Tabellenblättern:
+
+1. Artenliste
+  - ID; Deutscher Name; Wissenschaftlicher Name; Status Rote Liste CH; 
+  - Nationale Prioritäre Arten; Methode
+2. Nachweise Fotofallenbox
+  - Standort; Name Standort; 
+  - Fotofallenbox; CH1903+ / LV95; Arten
+3. Nachweis Lebendfang
+  - Standort; Name; CH1903+ / LV95; Arten
+
+
+
+::::

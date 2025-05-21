@@ -1,0 +1,84 @@
+---
+title: Sirfidi neurotteridi mecotteri
+author:
+  - name: Bärbel Koch
+    email: baerbel.koch@hotmail.com
+    phone: ; +41 (0) 78 910 99 47
+# 30.11.2024
+---
+
+
+## Introduzione sirfidi
+
+La famiglia dei sirfidi appartiene all\'ordine dei ditteri, che include mosche, moscerini e zanzare. Una delle particolarità dei sirfidi è che molte delle loro specie presentano somiglianze morfologiche e comportamentali con le api e le vespe, tanto da apparire pericolose agli occhi dei loro predatori. Come le api selvatiche, anche gli adulti dei sirfidi sono eccellenti impollinatori, sebbene il loro ruolo in questo ambito sia molto meno conosciuto. Le larve, d\'altra parte, presentano abitudini alimentari molto diversificate: alcune sono predatrici di afidi, altre si nutrono di materia organica in decomposizione (saprofaghe), mentre altre ancora si cibano di legno morto (saproxilofaghe). A Ces sono state osservate una cinquantina di specie, molte delle quali sono legate alle foreste di latifoglie o conifere. Sono state trovate anche specie più rare legate ai corsi d\'acqua e ai prati umidi.
+
+### *Eristalis tenax*
+
+![Bärbel Koch](/images/Eristalis tenax_Artbeispiel1.jpg)
+
+
+Il sirfide *Eristalis tenax* è una specie piuttosto comune, ampiamente diffusa e migratrice. Le sue larve sono acquatiche e si sviluppano in ambienti ricchi di materia organica in decomposizione, come ad esempio acque stagnanti, liquame e sterco di vacca.
+
+### *Chrysotoxum bicinctum*
+
+![Bärbel Koch](/images/Chrysotoxum bicinctum_Artbeispiel2.JPG)
+
+
+Con la sua caratteristica colorazione giallo-nera, quando vola il sirfide *Chrysotoxum bicinctum* appare a prima vista come una piccola vespa. Gli adulti sono spesso osservati tra la vegetazione di prati umidi, lungo i corsi d\'acqua o i margini boschivi e le siepi. Si nutrono del polline di una moltitudine di piante fiorite.
+
+### *Platycheirus albimanus*
+
+![Bärbel Koch](/images/Platycheirus albimanus_Artbeispiel3.JPG)
+
+
+A differenza di molti altri sirfidi con colorazione giallo-nera per assomigliare ad api e vespe, questa femmina di *Platycheirus albimanus* ha una colorazione metallica con macchie bluastre sull\'addome. Misura meno di 1 cm e le larve si cibano di afidi su vari cespugli ed erbe.
+
+## Introduzione neurotteridi
+
+Il gruppo dei neurotteridi comprende una variegata gamma di insetti, caratterizzati da forme, dimensioni e cicli di vita molto differenti tra loro. Gli adulti hanno una dieta diversificata e sono spesso predatori. La maggior parte delle specie appartenenti a questo gruppo è attiva al crepuscolo o durante la notte. Sebbene generalmente poco conosciuti e non molto studiati in Svizzera, i neurotteridi più noti sono senza dubbio i formicaleoni e gli ascalafi, poiché sono di grande taglia e più appariscenti. A Ces sono state osservate 4 specie di neurotteridi.
+
+### *Chrysoperla lucasina*
+
+![Bärbel Koch](/images/Chrysoperla lucasina_Artbeispiel3.jpg)
+
+
+Il neurottero *Chrysoperla lucasina* appartiene alla famiglia dei crisopidi, facilmente riconoscibili per il loro colore verde pallido, i grandi occhi dai riflessi metallici e le ali con fitte nervature. Le specie del genere *Chrysoperla* eseguono dei tambureggiamenti di corteggiamento, che sono distintivi e unici per ogni specie.
+
+## Introduzione mecotteri
+
+Come i neurotteridi, anche l\'ordine dei mecotteri è poco conosciuto alla maggior parte delle persone. Il loro nome comune, \"mosche scorpione\", deriva dalla forma caratteristica della parte finale dell\'addome dei maschi, che ricorda il pungiglione di uno scorpione, nonostante i mecotteri siano del tutto innocui. Questi insetti si possono osservare soprattutto lungo i margini boschivi e tra le erbe alte in zone umide e ombrose, dove sono particolarmente attivi durante il giorno e si nutrono di altri insetti. A Ces sono state osservate almeno 2 specie di mecotteri.
+
+### *Panorpa vulgaris*
+
+![Bärbel Koch](/images/Panorpa vulgaris_Artbeispiel4.JPG)
+
+
+*Panorpa vulgaris* appartiene al gruppo dei mecotteri, anche comunemente chiamati mosche scorpione per via del finto pungiglione alla fine dell\'addome dei maschi, che ricorda quello degli scorpioni. Sono insetti che si riconoscono facilmente anche grazie al capo allungato in un rostro boccale con cui si cibano di altri insetti vivi o morti.
+
+
+## Fundmeldungen
+
+```{r}
+#| echo: false
+
+layer <- "Sirfidi-neurotteri-mecotteri"
+
+```
+
+```{r}
+#| child: make-map.qmd
+#| echo: false
+#| column: page-inset
+#| warning: false
+#| fig-height: 8
+```
+
+## Artenliste
+
+
+```{r}
+#| child: make_artenliste.qmd
+#| echo: false
+#| warning: false
+#| fig-height: 1
+```

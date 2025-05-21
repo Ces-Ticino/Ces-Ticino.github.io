@@ -1,0 +1,91 @@
+---
+title: Flechten
+author: 
+  - name: Markus Gabathuler
+    email: mgabathuler@protonmail.com
+    affiliations: 
+      - name: Regensdorferstrasse 10, 8155 Niederhasli
+# date: 2024-11-15
+---
+
+::::{.content-visible when-profile="publikum"}
+## Einleitung Flechten
+
+Flechten sind Doppelorganismen, welche aus mindestens einem Pilzpartner (Mykobiont) und einem Algenpartner (Photobiont) bestehen. Während der Pilz das Gehäuse der Flechte ausbildet und den Algenzellen Schutz vor Fressfeinden bietet, produzieren diese durch Photosynthese Zucker, welche dem Pilz als Nahrung dient. Bei vollständiger Austrocknung verfallen Flechten in einen vorübergehend leblosen Zustand, bis sie wieder durch Niederschlag oder hohe Luftfeuchtigkeit befeuchtet werden. Grundsätzlich sind Flechten sehr konkurrenzschwach, vor allem gegenüber Gefässpflanzen, doch als wechselfeuchte Organismen, können sie Extremstandorte besiedeln (z.B. blankes Gestein). Von den schweizweit ca. 2000 bekannten Arten, konnten in der Umgebung von Ces bisher 111 Arten registriert werden.
+
+## Zierliche Gelbflechte (*Xanthoria elegans*)
+
+![](/images/Xanthoria_elegans_Mermilliod.JPG)
+
+![(Jean-Claude Mermilliod, Markus Gabathuler)](/images/Ces_Hausfassade_Gabathuler.jpg)
+
+Die orange Färbung der Hausfassade stammt von der Flechte *Xanthoria elegans* (Link) Th. Fr., welche oft auf Silikatgestein zu finden ist.
+
+
+
+
+## Trompetenflechte (*Cladonia fimbriata*)
+
+![Markus Gabathuler](/images/Cladonia_fimbriata_Gabathuler.jpg)
+
+
+*Cladonia fimbriata* (L.) Fr. kann am nördlichen Dorfeingang auf den Steinen der Trockensteinmauer gefunden werden. Es handelt sich um eine weit verbreitete Flechtenart, welche auf Bäumen wie auch auf Moos-überwachsenen Steinen vorkommt.
+
+
+## Rostfarbenen Stecknadelflechte (*Chaenotheca ferruginea*)
+
+![Markus Gabathuler](/images/Chaenotheca_ferruginea_Gabathuler.jpg)
+
+
+In den Fichtenwaldbeständen konnten diverse Vorkommen von Stecknadelflechten registriert werden. Unter anderem auch zwei Funde der Rostfarbenen Stecknadelflechte (*Chaenotheca ferruginea* (Sm.) Mig.)
+
+
+::::
+
+
+::::{.content-visible when-profile="technisch"}
+
+## Methodik
+
+Das Projektgebiet wurde mit dem Ziel einer möglichst kompletten Artenliste untersucht. Der Fokus lag daher auf allen Flechten-Ökotypen (epiphytisch, lignicol, terricol und saxicol). Mit einem «Intelligent Random Walk» konnten die verschiedenen Lebensräume untersucht werden, wobei die verfügbare Zeit für die Kartierungsarbeiten ein limitierender Faktor war. Die erlangte Artenliste gibt daher einen guten Einblick in die vorhandene Flechtenflora, sie ist allerdings nicht als vollständig zu betrachten und vor allem seltene Arten sind unterrepräsentiert.
+
+Alle registrierten Vorkommen von Flechten wurden mit den Koordinaten, dem Substrat und dem Lebensraum erfasst. Funde, welche im Feld nicht zweifelsfrei ansprechbar waren, wurden in kleinen Stücken gesammelt und anschliessend im Labor mit Hilfe von Stereolupe, Mikroskop und Dünnschichtchromatografie eindeutig bestimmt. Die Fundmeldungen wurden mit FlorApp erfasst und anschliessend an SwissLichens, das Nationale Daten- und Informationszentrum der Schweizer Flechten übermittelt.
+
+Die Kartierungsarbeiten wurden am 13./14. Juli und die Bestimmungsarbeiten bis Ende November 2024 von Markus Gabathuler durchgeführt.
+
+## Ergebnisse
+
+Insgesamt wurden im Projektgebiet 111 Arten registriert. Davon sind neun auf der Vorwarnliste (NT), weitere 70 sind als nicht gefährdet eingestuft und 31 Arten wurden bisher nicht evaluiert. Gefährdete Arten wurden während den Kartierungsarbeiten keine beobachtet, ihr Vorkommen ist allerdings nicht auszuschliessen. Besonders in den feuchteren Bereichen der Fichtenwaldbestände besteht die Möglichkeit, dass Waldzielarten wie z.B. *Menegazzia terebrata* (Hoffm.) A. Massal. anzutreffen sind.
+
+Die vielen unterschiedlichen Substrate im Untersuchungsgebiet sind ein wichtiger Faktor für die hohe Dichte von Flechtenarten. Bei ungefähr 60 Arten handelt es sich um epiphytische (baumbewohnende) Flechten, wovon die meisten (n=22) auf Larix decidua beobachtet wurden. Vor allem die Steinhäuser in und um Ces, wie auch einzelne freiliegende Steinblöcke bieten mindestens 23 saxicolen Flechtenarten geeigneten Lebensraum. Es handelt sich dabei vor allem um Arten, welche auf Silikatgestein zu erwarten sind. Dazu gehören z.B. *Rhizocarpon geographicum* (L.) DC. s. lat., diverse Arten der Gattung *Umbilicaria*, wie auch *Brodoa intestiniformis* (Vill.) Goward. Am wenigsten vertreten, mit elf Arten, sind die terricolen Flechten. Dies liegt hauptsächlich an der Bodenvegetation, welche auf dieser Höhenstufe noch deutlich von Blütenpflanzen dominiert wird. In offenen Vegetationslücken konnten diverse Arten der Gattung *Cladonia* und unter anderen auch *Peltigera didactyla* (With.) J. R. Laundon registriert werden*. Xylographa parallela* (Ach. : Fr.) Fr. war die einzige ausschliesslich auf Totholz wachsende erfasste Flechtenart.
+
+## Vorschläge Fördermassnahmen
+
+Besondere Fördermassnahmen für Flechten sind keine nötig. Das Gebiet enthält bereits viele unterschiedliche Lebensräumen mit diversen Charakteristiken. Der vor kurzer Zeit aufgelichtete Waldbestand wird für diverse lichtliebende Flechten Lebensraum bieten. Die Besiedelung mit solchen Flechtenarten wird allerdings einige Jahre in Anspruch nehmen. Auch die freistehenden Bäume, vor allem im Bereich des «gestauten Bächleins» (706\'265/143\'916), sind wertvolle Lebensräume.
+
+## Fundmeldungen
+
+```{r}
+#| echo: false
+
+layer <- "Flechten"
+
+```
+
+```{r}
+#| child: make-map.qmd
+#| echo: false
+#| column: page
+#| warning: false
+#| fig-height: 10
+```
+
+
+
+
+## Anhang
+
+Ces_FunmeldungenArtenliste.xlsx
+
+
+::::
