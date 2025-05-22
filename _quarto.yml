@@ -17,6 +17,8 @@ book:
 bibliography: references.bib
 
 
+profile:
+  default: development
 
 
 

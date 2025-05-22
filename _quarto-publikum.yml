@@ -16,6 +16,7 @@ book:
     - publikumsbericht/Kleinsaeuger.qmd
     - publikumsbericht/Fledermäuse.qmd
     - publikumsbericht/Waldentwicklung.qmd
+    - publikumsbericht/impressum.qmd
 project:
   output-dir: _output-publikum
 

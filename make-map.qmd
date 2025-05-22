@@ -9,8 +9,27 @@ tmap_mode("view")
 
 fundmeldungen <- read_sf("Fundmeldungen/Fundmeldungen.gpkg", layer) |>
   mutate(
-    gefaehrdungsstatus = factor(gefaehrdungsstatus, levels = c("CR(PE)", "EN", "VU", "NT", "LC/NE/NA/DD"))
+    gefaehrdungsstatus = factor(gefaehrdungsstatus, levels = c("CR(PE)", "EN", "VU", "NT", "LC/NE/NA/DD"), ordered = TRUE)
   )
+
+fundmeldungen <- cbind(
+  fundmeldungen,
+  st_coordinates(fundmeldungen)
+)
+
+
+
+fundmeldungen <- fundmeldungen |> 
+  group_by(X,Y) |> 
+  summarise(
+    artname_lateinisch = paste(artname_lateinisch, collapse = ", "),
+    gefaehrdungsstatus = min(gefaehrdungsstatus)
+  ) |> 
+  ungroup() |> 
+  select(-X, -Y) |> 
+  arrange(desc(gefaehrdungsstatus))
+
+
 
 
 cols <- c(rev(RColorBrewer::brewer.pal(4, "YlOrRd")), "grey")

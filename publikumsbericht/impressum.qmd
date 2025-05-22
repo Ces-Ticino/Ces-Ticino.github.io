@@ -1,0 +1,28 @@
+# Impressum
+
+```{r}
+#| output: false
+library(readr)
+
+
+impressum <- read_csv("publikumsbericht/impressum.csv", col_names = c("x","y"))
+
+library(kableExtra)
+
+impressum$x <- ifelse(is.na(impressum$x), "",impressum$x)
+impressum$y <- ifelse(is.na(impressum$y), "",impressum$y)
+
+```
+
+
+```{r}
+kable(impressum,col.names = c("",""))
+
+```
+
+
+
+
+**Citazione Zitierung**:
+
+Fondazione per la rinascita di Chiesso, FRC (Ed./Hrsg.) 2025. La biodiversità a Ces – Die Biodiversität in Ces. Opuscolo pubblico / Publikumsbroschüre. Chironico <www.cesbiodiv.ch>
