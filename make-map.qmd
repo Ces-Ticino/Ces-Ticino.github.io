@@ -9,7 +9,9 @@ tmap_mode("view")
 
 fundmeldungen <- read_sf("Fundmeldungen/Fundmeldungen.gpkg", layer) |>
   mutate(
-    gefaehrdungsstatus = factor(gefaehrdungsstatus, levels = c("CR(PE)", "EN", "VU", "NT", "LC/NE/NA/DD"), ordered = TRUE)
+    gefaehrdungsstatus = factor(gefaehrdungsstatus, levels = c("CR(PE)", "EN", "VU", "NT", "LC/NE/NA/DD"), ordered = TRUE),
+    praezision_koord = as.numeric(praezision_koord),
+    # funddatum = as.Date(funddatum)
   )
 
 fundmeldungen <- cbind(
@@ -19,23 +21,38 @@ fundmeldungen <- cbind(
 
 
 
-fundmeldungen <- fundmeldungen |> 
-  group_by(X,Y) |> 
+fundmeldungen2 <- fundmeldungen |> 
+  group_by(X,Y, praezision_koord, funddatum) |> 
   summarise(
-    artname_lateinisch = paste(artname_lateinisch, collapse = ", "),
+    artname_lateinisch = paste(artname_lateinisch, collapse = "<br> "),
     gefaehrdungsstatus = min(gefaehrdungsstatus)
   ) |> 
   ungroup() |> 
-  select(-X, -Y) |> 
+  # select(-X, -Y) |> 
   arrange(desc(gefaehrdungsstatus))
 
 
 
 
 cols <- c(rev(RColorBrewer::brewer.pal(4, "YlOrRd")), "grey")
-fundmeldungen |>
-  tm_shape() +   
-  tm_bubbles(fill = "gefaehrdungsstatus",fill.scale = tm_scale_categorical(values = cols))  +
+fundmeldungen2 |>
+  tm_shape(
+    name = "Gefährdungsstatus"
+  ) +   
+  tm_bubbles(
+    fill = "gefaehrdungsstatus",
+    fill.scale = tm_scale_categorical(values = cols),
+    fill.legend = tm_legend("Gefährdungsstatus"),
+    popup.vars = c(
+      "Artname" = "artname_lateinisch", 
+      "Präzision (Meter)" = "praezision_koord",
+      "Datum" = "funddatum",
+      "Gefährdungsstatus" = "gefaehrdungsstatus"
+      ),
+    
+    popup.format = list(artname_lateinisch = list(html.escape = FALSE))
+    # pop
+    )  +
   tm_basemap("SwissFederalGeoportal.SWISSIMAGE") 
 
 ```

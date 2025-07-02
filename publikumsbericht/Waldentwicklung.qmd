@@ -73,7 +73,7 @@ lebensraeume_map <- tm_shape(lebensraum_f, name = "Flächen") +
     fill = "Broschüre", 
     fill.scale = tm_scale_categorical(values = colors$Polygone),
     fill.legend = tm_legend(""),
-    popup.vars = FALSE
+    popup.vars = c("Vereinfacht", "Typo.CH.Code_def", "Feldcode","Name", "Broschüre")
     ) +
   tm_shape(lebensraum_l, name = "Linien") + 
   tm_lines(
@@ -82,14 +82,14 @@ lebensraeume_map <- tm_shape(lebensraum_f, name = "Flächen") +
     col.scale = tm_scale_categorical(values = colors$Linien),
     col.legend = tm_legend(""),
     lwd = 2,
-    popup.vars = FALSE
+    # popup.vars = FALSE
     ) +
   tm_shape(lebensraum_p, name = "Punkte") +
   tm_dots(
     fill = "Broschüre", 
     fill.scale = tm_scale_categorical(values = colors$Punkte),
     fill.legend = tm_legend(""),
-    popup.vars = FALSE
+    # popup.vars = FALSE
     ) +
   tm_basemap(c("SwissFederalGeoportal.SWISSIMAGE", "OpenStreetMap"))
   

@@ -25,4 +25,4 @@ kable(impressum,col.names = c("",""))
 
 **Citazione Zitierung**:
 
-Fondazione per la rinascita di Chiesso, FRC (Ed./Hrsg.) 2025. La biodiversità a Ces – Die Biodiversität in Ces. Opuscolo pubblico / Publikumsbroschüre. Chironico <www.cesbiodiv.ch>
+Fondazione per la rinascita di Chiesso, FRC (Ed./Hrsg.) 2025. Biodiversità a Ces – Biodiversität in Ces. Opuscolo pubblico / Publikumsbroschüre. Chironico <www.cesbiodiv.ch>

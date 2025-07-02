@@ -85,6 +85,8 @@ layer <- "Heuschrecken_Libellen_Tagfalter"
 #| fig-height: 8
 ```
 
+Interaktive Karte mit den Fundmeldungen der kartierten Arten in Ces. Mit einem Klick auf die einzelnen Punkte sind weitere Informationen ersichtlich. An Koordinaten (Punkten), an denen mehrere Arten kartiert wurden, wird die Gefährdungskategorie der am stärksten gefährdeten Art angegeben. Die Präzision gibt an, in welchem Radius der Fund gemacht wurde.
+
 ## Artenliste
 
 ```{r}
