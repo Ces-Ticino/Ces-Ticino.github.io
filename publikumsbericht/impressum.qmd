@@ -5,7 +5,7 @@
 library(readr)
 
 
-impressum <- read_csv("publikumsbericht/impressum.csv", col_names = c("x","y"))
+impressum <- read_delim("publikumsbericht/impressum.csv", col_names = c("x","y"), delim = ";")
 
 library(kableExtra)
 
@@ -17,12 +17,13 @@ impressum$y <- ifelse(is.na(impressum$y), "",impressum$y)
 
 ```{r}
 kable(impressum,col.names = c("",""))
-
 ```
 
 
 
+**Citazione / Zitierung**:
 
-**Citazione Zitierung**:
+Progetto riqualificazione ecologica e paesaggistica a Ces / Projekt ökologische und landschaftliche Aufwertungen in Ces 2025:Biodiversità a Ces – Biodiversität in Ces. Homepage. Chironico. [www.cesbiodiv.ch](https://cesbiodiv.ch)
 
-Fondazione per la rinascita di Chiesso, FRC (Ed./Hrsg.) 2025. Biodiversità a Ces – Biodiversität in Ces. Opuscolo pubblico / Publikumsbroschüre. Chironico <www.cesbiodiv.ch>
+**Contatto / Kontakt**:
+c/o Fondazione per la Rinascita di Chiesso (FRC), c.p. 15, CH-6747 Chironico
