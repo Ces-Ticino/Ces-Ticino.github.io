@@ -63,7 +63,18 @@ Die erstellten Dateien landen anschliessend in den Ordnern:
 
 Der Layer **`Amphibien_und_Reptilien`** wurde aus `data/Fundmeldungen.gpkg` entfernt und ist nicht Teil dieses Repositories. Es handelt sich um sensible Rohdaten (Ground-Truth-Daten) mit präzisen Fundkoordinaten, die nicht öffentlich zugänglich sein sollen.
 
-Ein Backup des vollständigen `Fundmeldungen.gpkg` (inkl. diesem Layer) wird separat aufbewahrt.
+Ein Backup des vollständigen `Fundmeldungen.gpkg` (inkl. diesem Layer) liegt verschlüsselt unter `data/Fundmeldungen.gpkg-backup.gpg`. Um daraus die bereinigte Version wiederherzustellen:
+
+```sh
+# 1. Backup entschlüsseln
+gpg --output data/Fundmeldungen_full.gpkg --decrypt data/Fundmeldungen.gpkg-backup.gpg
+
+# 2. Sensitiven Layer entfernen
+ogrinfo data/Fundmeldungen_full.gpkg -sql "DROP TABLE \"Amphibien_und_Reptilien\""
+
+# 3. Umbenennen
+mv data/Fundmeldungen_full.gpkg data/Fundmeldungen.gpkg
+```
 
 ---
 
