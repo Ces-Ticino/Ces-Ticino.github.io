@@ -80,10 +80,20 @@ mv data/Fundmeldungen_full.gpkg data/Fundmeldungen.gpkg
 
 ## Veröffentlichen
 
-Der Publikumsbericht wird über [GitHub Pages](https://pages.github.com/) unter https://www.cesbiodiv.ch gehostet. Um eine neue Version zu veröffentlichen, gibt man folgenden Befehl ein (das Rendern erfolgt dabei automatisch):
+Der Publikumsbericht wird über [GitHub Pages](https://pages.github.com/) unter https://www.cesbiodiv.ch gehostet. Die Custom Domain ist in der Datei `CNAME` im Repository hinterlegt. Um eine neue Version zu veröffentlichen, gibt man folgenden Befehl ein (das Rendern erfolgt dabei automatisch):
 
 ```sh
 quarto publish gh-pages
 ```
 
 Hinweis: Das Veröffentlichen erfordert eine Bestätigung im Browser beim ersten Mal.
+
+### Sicherheitshinweis: Domain-Übernahme verhindern
+
+Was die Domain schützt, ist die DNS-Konfiguration beim Domain-Registrar: Nur wer dort Zugriff hat, kann `cesbiodiv.ch` umleiten.
+
+Es gibt jedoch einen bekannten Angriff ("Subdomain Takeover"): Falls GitHub Pages deaktiviert oder das Repository gelöscht wird, während der DNS-Eintrag noch auf `ces-ticino.github.io` zeigt, könnte ein Angreifer eine Organisation mit demselben Namen erstellen und Inhalte unter `cesbiodiv.ch` ausliefern.
+
+GitHub bietet dafür eine **Domain-Verifizierung** an: Durch einen TXT-Eintrag im DNS wird gegenüber GitHub bewiesen, dass die Organisation `Ces-Ticino` die Domain `cesbiodiv.ch` besitzt. Danach kann kein anderes GitHub-Konto diese Domain für GitHub Pages beanspruchen.
+
+Zu konfigurieren unter: GitHub Organisation → Settings → "Verified & approved domains"
