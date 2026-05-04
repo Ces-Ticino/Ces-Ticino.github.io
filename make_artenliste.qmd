@@ -6,7 +6,7 @@
 library(dplyr)
 library(stringr)
 library(purrr)
-df <- readxl::read_xlsx("Fundmeldungen/Gesamtartenliste.xlsx") |> 
+df <- readxl::read_xlsx("data/Gesamtartenliste.xlsx") |> 
   filter(Gruppe2 == layer)
 
 

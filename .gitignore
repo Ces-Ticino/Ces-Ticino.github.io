@@ -13,3 +13,4 @@ Berichte_gesplittet
 
 **/*.quarto_ipynb
 data/*.xlsx
+!data/Gesamtartenliste.xlsx

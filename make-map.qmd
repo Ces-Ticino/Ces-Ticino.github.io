@@ -7,7 +7,7 @@ library(dplyr)
 
 tmap_mode("view")
 
-fundmeldungen <- read_sf("Fundmeldungen/Fundmeldungen.gpkg", layer) |>
+fundmeldungen <- read_sf("data/Fundmeldungen.gpkg", layer) |>
   mutate(
     gefaehrdungsstatus = factor(gefaehrdungsstatus, levels = c("CR(PE)", "EN", "VU", "NT", "LC/NE/NA/DD"), ordered = TRUE),
     praezision_koord = as.numeric(praezision_koord),
