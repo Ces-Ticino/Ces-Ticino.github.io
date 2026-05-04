@@ -5,7 +5,6 @@ Abgegebene_Berichte
 _book
 /.quarto/
 tmpdir
-images/
 _output-*
 geodata
 Links_zu_Webpages.txt
