@@ -5,6 +5,7 @@ Abgegebene_Berichte
 _book
 /.quarto/
 tmpdir
+_freeze/
 _output-*
 geodata
 Links_zu_Webpages.txt
