@@ -59,6 +59,14 @@ Die erstellten Dateien landen anschliessend in den Ordnern:
 
 ---
 
+## Hinweis zu sensiblen Daten
+
+Der Layer **`Amphibien_und_Reptilien`** wurde aus `data/Fundmeldungen.gpkg` entfernt und ist nicht Teil dieses Repositories. Es handelt sich um sensible Rohdaten (Ground-Truth-Daten) mit präzisen Fundkoordinaten, die nicht öffentlich zugänglich sein sollen.
+
+Ein Backup des vollständigen `Fundmeldungen.gpkg` (inkl. diesem Layer) wird separat aufbewahrt.
+
+---
+
 ## Veröffentlichen
 
 Der Publikumsbericht wird auf [Netlify](https://www.netlify.com/) unter https://www.cesbiodiv.ch gehostet. Um eine neue Version zu veröffentlichen, gibt man folgenden Befehl ein (das Rendern erfolgt dabei automatisch):
