@@ -31,12 +31,12 @@ library(glue)
 library(dplyr)
 # layers <- c("Wald_1961", "Wald_1999", "Wald_2021")
 # names(layers) <- layers
-# gpkg <- "Waldentwicklung/02_cleaned/ces.gpkg"
+# gpkg <- "Fundmeldungen/ces.gpkg"
 
 # wald_l <- imap(layers, \(x,y)read_sf(gpkg, x))
 
 
-lebensraum <- "Waldentwicklung/Lebensraumkartierung/Lebensraumkartierung.gpkg"
+lebensraum <- "Fundmeldungen/Lebensraumkartierung.gpkg"
 
 
 lebensraum_f <- st_read(lebensraum, "Flaechen")
@@ -57,7 +57,7 @@ dfs <- c("Polygone", "Linien","Punkte")
 
 names(dfs) <- dfs
 
-df_paths <- glue("Waldentwicklung/Farben_Karte_{dfs}_Spalte-Broschüre.csv")
+df_paths <- glue("Fundmeldungen/Farben_Karte_{dfs}_Spalte-Broschüre.csv")
 
 names(df_paths) <- dfs
 
@@ -125,7 +125,7 @@ library(tmap)
 library(sf)
 tmap_mode("view")
 
-gpkg <- "Waldentwicklung/02_cleaned/ces.gpkg"
+gpkg <- "Fundmeldungen/ces.gpkg"
 
 lyr <- st_layers(gpkg)$name
 

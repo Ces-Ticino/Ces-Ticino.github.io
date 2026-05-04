@@ -8,6 +8,8 @@ tmpdir
 images/
 _output-*
 geodata
-Waldentwicklung
 Links_zu_Webpages.txt
 Berichte_gesplittet
+
+**/*.quarto_ipynb
+Fundmeldungen/*.xlsx
