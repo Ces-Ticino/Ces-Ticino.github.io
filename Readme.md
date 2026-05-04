@@ -80,10 +80,10 @@ mv data/Fundmeldungen_full.gpkg data/Fundmeldungen.gpkg
 
 ## Veröffentlichen
 
-Der Publikumsbericht wird auf [Netlify](https://www.netlify.com/) unter https://www.cesbiodiv.ch gehostet. Um eine neue Version zu veröffentlichen, gibt man folgenden Befehl ein (das Rendern erfolgt dabei automatisch):
+Der Publikumsbericht wird über [GitHub Pages](https://pages.github.com/) unter https://www.cesbiodiv.ch gehostet. Um eine neue Version zu veröffentlichen, gibt man folgenden Befehl ein (das Rendern erfolgt dabei automatisch):
 
 ```sh
-quarto publish netlify
+quarto publish gh-pages
 ```
 
-Hinweis: Das Veröffentlichen erfordert einen Netlify-Account und eine Bestätigung im Browser. Im Terminal muss beim Fragen nach dem Veröffentlichungsort die richtige Seite aus der Auswahlliste gewählt werden.
+Hinweis: Das Veröffentlichen erfordert eine Bestätigung im Browser beim ersten Mal.
