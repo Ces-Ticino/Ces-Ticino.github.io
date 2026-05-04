@@ -15,15 +15,11 @@ impressum$y <- ifelse(is.na(impressum$y), "",impressum$y)
 ```
 
 
+**Gestione / Trägerschaft**:
+
+[Fondazione per la rinascita di Chiesso / Stiftung zum Wiederaufbau von Ces](https://cesnet.ch/)
+
 ```{r}
 kable(impressum,col.names = c("",""))
 ```
 
-
-
-**Citazione / Zitierung**:
-
-Progetto riqualificazione ecologica e paesaggistica a Ces / Projekt ökologische und landschaftliche Aufwertungen in Ces 2025:Biodiversità a Ces – Biodiversität in Ces. Homepage. Chironico. [www.cesbiodiv.ch](https://cesbiodiv.ch)
-
-**Contatto / Kontakt**:
-c/o Fondazione per la Rinascita di Chiesso (FRC), c.p. 15, CH-6747 Chironico

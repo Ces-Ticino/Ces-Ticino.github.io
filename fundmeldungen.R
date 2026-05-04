@@ -5,7 +5,7 @@ library(dplyr)
 library(lubridate)
 library(purrr)
 library(forcats)
-xlsx <- list.files("Fundmeldungen", "\\.xlsx", full.names = TRUE)
+xlsx <- list.files("data", "\\.xlsx", full.names = TRUE)
 
 
 xlsx <- xlsx[str_detect(xlsx, "(DH_Flora_Vegetation_LV95.xlsx)|(Gesamtartenliste)", negate = TRUE)]
@@ -103,5 +103,5 @@ xlsx_sf2 <- split(xlsx_sf, xlsx_sf$gruppe)
 
 cat(names(xlsx_sf2), sep = "\n")
 
-imap(xlsx_sf2, ~write_sf(.x, "Fundmeldungen/Fundmeldungen.gpkg", .y, append = FALSE))
+imap(xlsx_sf2, ~write_sf(.x, "data/data.gpkg", .y, append = FALSE))
 

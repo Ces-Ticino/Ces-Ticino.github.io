@@ -1,53 +1,70 @@
+# Jahr der Artenvielfalt Ces 2024 – Berichte
 
-## Preprocessing:
+Dieses Projekt enthält zwei Berichte zum Jahr der Artenvielfalt Ces 2024:
 
+- **Publikumsbericht** – eine HTML-Website, die online abrufbar ist
+- **Technischer Bericht** – ein ausführliches PDF-Dokument
 
-1. Run import.R to create docx_df.csv
-2. Run pandoc-convert.sh to create md files
-3. Process md files manually and rename as qmd Files
-4. Run fundmeldungen.R to create a Geopackage with all the Fundmeldungen
-6. Render and Preview (see below)
+Der Publikumsbericht ist online abrufbar unter: https://www.cesbiodiv.ch
 
-## Preview
+Der Technische Bericht wurde als PDF an die Auftraggeber abgegeben.
 
+---
+
+## Voraussetzungen
+
+Um die Berichte lokal zu erstellen, muss **Quarto** auf dem Computer installiert sein.
+
+Quarto ist kostenlos und kann hier heruntergeladen werden: https://quarto.org/
+
+Nach der Installation kann man überprüfen, ob Quarto korrekt installiert ist, indem man ein Terminal öffnet und folgendes eingibt:
 
 ```sh
+quarto --version
+```
+
+---
+
+## Vorschau im Browser
+
+Um eine Vorschau der Berichte im Browser anzuzeigen, öffnet man ein Terminal im Projektordner und gibt einen der folgenden Befehle ein:
+
+```sh
+# Vorschau des Publikumsberichts (Standardprofil, HTML-Website)
+quarto preview
+
+# Vorschau des Technischen Berichts (PDF)
 quarto preview --profile technisch
-quarto preview --profile publikum
 ```
 
+Der Browser öffnet sich automatisch mit einer Vorschau. Änderungen an den Quelldateien werden dabei sofort angezeigt.
 
-## Render
+---
 
+## Berichte erstellen (Rendern)
 
-### HTML
+Um die fertigen Berichte zu erstellen, gibt man folgenden Befehl ins Terminal ein:
 
 ```sh
+# Publikumsbericht als HTML-Website erstellen (Standardprofil)
+quarto render
+
+# Technischen Bericht als PDF erstellen
 quarto render --profile technisch
-quarto render --profile publikum
 ```
 
-## Publishing
+Die erstellten Dateien landen anschliessend in den Ordnern:
+- `_output-publikum/` (HTML-Website)
+- `_output-technisch/` (PDF)
 
-(to publish, you dont have to render the project first. This is done automatically)
+---
 
-- Technischer Bericht is published 
-  - https://ces-technischer-bericht.netlify.app/
-  - Alias: ces-technischer-bericht.ratnaweera.xyz
+## Veröffentlichen
 
-- Publikumsbericht is published
-  - https://ces-publikumsbericht.netlify.app/
-  - Alias: ces-publikumsbericht.ratnaweera.xyz
-
-
-To publish, theoretically you can run the following commands. However, 
-it seems you need to omit the `--id` parameter and then choose the correct
-location using the Dropdown in the terminal. 
-
-Also, you need to approve every publication via the browser, by logging in first.
+Der Publikumsbericht wird auf [Netlify](https://www.netlify.com/) unter https://www.cesbiodiv.ch gehostet. Um eine neue Version zu veröffentlichen, gibt man folgenden Befehl ein (das Rendern erfolgt dabei automatisch):
 
 ```sh
-quarto publish netlify --profile publikum --id b439bbb0-bf5b-4748-89cf-709d69945e29
-
-quarto publish netlify --profile technisch --id 7f330b56-ca33-4f86-90d8-162745e90e08
+quarto publish netlify
 ```
+
+Hinweis: Das Veröffentlichen erfordert einen Netlify-Account und eine Bestätigung im Browser. Im Terminal muss beim Fragen nach dem Veröffentlichungsort die richtige Seite aus der Auswahlliste gewählt werden.
